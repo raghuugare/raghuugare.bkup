@@ -1,0 +1,17 @@
+# Site settings
+title: Biscuits in Tea ! <3 :)
+email: raghu.ugare@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  A collection of writings with which I want to share my discoveries of little gems & nuggets related to helping fellow students of
+  Computer Science and Programming in general. The writings could be specific to a some programming language, or be about a more general concept like Algorithms or Data-structures.
+  Thanks to all the great Gurus & Pioneers of Computer Science, and Mathematics on whose shoulders we're able to see far far more...
+  
+  - Raghu Ugaré  
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+twitter_username: raghu_ugare
+github_username:  raghuugare
+
+# Build settings
+markdown: kramdown
+highlighter: pygments

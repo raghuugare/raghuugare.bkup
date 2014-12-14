@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Welcome!"
+date:   2014-12-12 21:00:10
+categories: general
+---
+
+Hi dear Friend! :~)
+
+Welcome to my little site, where I would like to discuss and 'share' little nuggets of beauty or lessons that I learned about and/or 'experienced' during my on-going journey to know more about the Art & Science of Programming in particular.
+
+Occasionally, it might contain my ramblings on some other topics too.
+
+### About the name
+
++ **"Biscuits in Tea"**: You can read about the reasoning for it **[here]({{site.url}}/about)**.
++ The above name also happens to form the _[acronym][link_acronym_meaning]_ of `"BiT"`---the smallest unit of storage in Computer-Science. It mirrors my belief that the tiniest spark of an idea or intuition or inspiration can move us to action. I also wanted this to be a collection of several such interesting tid-**bit**s of fun & learning!
+
+I sincerely hope you enjoy 'savouring' these anecdotes(or letters rather!) as much as I do creating them! :)
+
+Take care, and Keep smiling! :)
+
+**Love & West wishes...**
+
+![image_rags_childhood_small]({{site.url}}/assets/images/boy_in_rags_small.png)
+
+_The boy in "rags"_
+
+Planet Earth
+
+> **Note:** The above pic is from my childhood: one of my all-time favourites !
+
+[link_personal_blog]:   http://ragsoverriches.blogspot.in
+[link_medium]:  http://medium.com
+[link_medium_story_ramanujan]:  http://bit.ly/1DlRi5m
+[link_acronym_meaning]: http://www.thefreedictionary.com/acronym
