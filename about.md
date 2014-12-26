@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About. . .
 permalink: /about/
 ---
 
@@ -8,16 +8,18 @@ permalink: /about/
 
 ## ![icon_kettle]({{site.url}}/assets/icons/rags_icon_128_by_128_kettle.png) ---> ![icon_cup]({{site.url}}/assets/icons/rags_icon_128_by_128_cup.png)
 
-This has been _brewing_ in the kettle of my heart since long. The time has finally come!
+This has been **brewing** in _the kettle of my heart/mind_ since long.
+The time has finally come to _**serve**_ [^1] it!
 
-`Confession:` I am an _ardent_ lover of [Tea][link_tea]---a fact my friends all over the world can vouch for.
+[^1]: _"serve"_ on the web, of-course! :)
 
-(No offence meant; you are free to substitute Tea with [Coffee][link_coffee] or whatever beverage (or activity!) that you love with the same _connotation_. My dear friend Vijay would definitely go for Coffee, while my dear wife Rajeshwari would clearly choose fresh fruit-juice!)
+`Confession:` I am an _ardent_ lover of **[Tea][link_tea]**---a fact my friends all over the world can vouch for.
 
+(No offence meant; you are free to substitute Tea with **[Coffee][link_coffee]** or whatever beverage (or activity!) that you love with the same _connotation_. My dear friend **[Vijay][link_vijay]** would definitely go for Coffee, while my dear wife Rajeshwari would clearly choose fresh fruit-juice!)
 
-And _dunking_[^1] [biscuits][link_biscuit] in piping hot-tea is such a **['Zen'][link_zen]**-experience in itself! :)
+And _dunking_ [^2] [biscuits][link_biscuit] in piping hot-tea is such a **['Zen'][link_zen]**-experience in itself! :)
 
-[^1]: Yes, ['dunk'][link_dunk_meaning] rather than just 'dip'. Look it up by clicking on the word. :)
+[^2]: Yes, ['dunk'][link_dunk_meaning] rather than just 'dip'. Look it up by clicking on the word. :)
 
 Just a tiny _cup o' tea_ makes me
 
@@ -43,7 +45,7 @@ And when I was in the UK, thanks to my loving friends, it was tea with the class
 
 (the above image is courtesy _The Telegraph, UK,_ in a [recent story][link_telegraph_uk_biscuits])
 
-## Anyways, it's not just about Biscuits and Tea!
+## But, it's not just about Biscuits and Tea!
 
 ### ![icon_cup]({{site.url}}/assets/icons/rags_icon_128_by_128_cup.png) + ![icon_computer]({{site.url}}/assets/icons/rags_icon_128_by_128_computer.png) + ![icon_ink_pen]({{site.url}}/assets/icons/rags_icon_128_by_128_ink_pen.png) = ![icon_smile]({{site.url}}/assets/icons/rags_icon_128_by_128_smile.png)
 
@@ -51,9 +53,9 @@ Through this site,
 
 + I want to share some stories/experiences that are as 'beautiful' & 'en-lightening' as are moments of dipping into your favourite book with a cup of hot tea and snacks during chilly mornings or drizzly late-noons & evenings. :)
 
-+ I want to share my little _"Eureka!"_ / _"Aha!"_ moments, the _epiphanies,_ along with (m)any other learnings connected to Computers or otherwise through this blog.
++ I want to share my little _"EUREKA!", "AHA!",_ and even the _"WTF!"_ moments (the last being especially _ubiquitous_ these days in software); the _epiphanies,_ along with (m)any other learnings connected to Computers or otherwise through this blog.
 
-A beautiful being, equation, program, function, algorithm, song, pattern, or an image gives me the same kind of 'kick' that a cup of hot tea does! :)
+'Feeling' the presence of a beautiful poem, story, equation, program, function, algorithm, song, pattern, or an image gives me the same kind of 'kick' that a cup of hot tea does! :)
 
 And hence the parallel with tea.
 
@@ -61,15 +63,15 @@ And hence the parallel with tea.
 
 Oh, by the way, I am **Raghu Ugaré** --- a passionate programmer, and an avid Art, Science & Math student for life.
 
-I love to play with _WORDS_ & _SYMBOLS_[^2].
+I love to play with _IDEAS, PATTERNS, WORDS_ & _SYMBOLS_ (not realizing that it might be the other way round ?!?).[^3]
 
-[^2]: Whilst not realizing that it might be the other way round ?!? <br/> "Do **we** manipulate SYMBOLS or vice-versa?"
+[^3]: Sometimes, I do wonder: <br/> "Does our **Mind** manipulate _IDEAS, PATTERNS, WORDS & SYMBOLS_ or is it in fact, manipulated/shaped by them?"
 
 I love ALL kinds of patterns be it in Nature, Philosophy, Religion, Science, Mathematics, Painting, Prose, Poetry, Music, Programming, etc., and the mysterious _connections and unity_ underneath them all.
 
-I love typography and am a font-fanatic.[^3]
+I love typography and am a font-fanatic.[^4]
 
-[^3]: You will no doubt be witness to a constant 'flux' of changes in the typefaces (fonts) on this site as I keep experimenting! 
+[^4]: You will no doubt be witness to a constant 'flux' of changes in the typefaces (fonts) on this site as I keep experimenting! 
 
 I love to build simple models from which I try to 'mine' & 'glean' useful data & insights.
 
@@ -96,6 +98,7 @@ Planet Earth
 ### Footnotes
 
 [link_medium]: http://medium.com
+[link_vijay]: http://vijayanant.github.io
 [link_medium_story_ramanujan]: http://bit.ly/1DlRi5m
 [link_personal_blog]: http://bit.ly/1yHVaKV 
 [link_telegraph_uk_biscuits]: http://www.telegraph.co.uk/travel/3087838/Tea-and-biscuits-for-everyone-arriving-in-Britain.html
