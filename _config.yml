@@ -4,8 +4,6 @@ email: raghu.ugare@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Please feel free to contact me in case you have any comments, feedback or suggestions.
   Thanks!
-  <br/>  
-  - Raghu Ugaré
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 twitter_username: raghu_ugare
