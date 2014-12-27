@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About. . .
+title: About . . .
 permalink: /about/
 ---
 
-## Hello! Tea, anyone ? :~)
+## Hello! Tea, anyone ? &#9786;
 
 ## ![icon_kettle]({{site.url}}/assets/icons/rags_icon_128_by_128_kettle.png) ---> ![icon_cup]({{site.url}}/assets/icons/rags_icon_128_by_128_cup.png)
 
@@ -27,7 +27,7 @@ Just a tiny _cup o' tea_ makes me
 
 + ...get "LOST" in a trance of THOUGHT-LeSS-ness, and NO-MIND-ness, 
 
-+ ...move to a state of EMPTY-ness & _joy_-filled ALONE-ness despite being in the company of my loved & loving ones,
++ ...move to a state of EMPTY-ness & _joy-filled_ ALONE-ness despite being in the company of my loved & loving ones,
 
 + ...feel a strange kind of WARMTH & BLiSS that is, to put it in my way, PRiCE-Le$$ ! :)
 
@@ -35,7 +35,7 @@ Just a tiny _cup o' tea_ makes me
 
 **Don't you agree ? :)**
 
-Well, when I am in [India][link_india]---both in my native village as well as in [Bangalore][link_bangalore], it is usually hot tea(with milk) laced with aromatic _[Lemon-Grass][link_lemon_grass],_ accompanied by _melt-in-the-mouth_ goodness of **[Parle-G][link_parle_g]** biscuits! <3 :)
+Well, when I am in [India][link_india]---both in my native village as well as in [Bangalore][link_bangalore], it is usually hot tea(with milk) laced with aromatic _[Lemon-Grass][link_lemon_grass],_ accompanied by _melt-in-the-mouth_ goodness of **[Parle-G][link_parle_g]** biscuits! &hearts; :)
 
 ![image_parle_g]({{site.url}}/assets/images/parle_g_in_tea.jpg) 
 
@@ -94,6 +94,14 @@ Have a wonder-filled time with your dear ones!
 Raghu Ugaré
 
 Planet Earth
+
+
+> &#10077; We design our world, while our world acts back on us and designs us. &#10078;
+>
+> -- **Anne-Marie Willis**
+>
+
+---
 
 ### Footnotes
 
