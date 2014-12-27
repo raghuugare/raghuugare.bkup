@@ -77,7 +77,7 @@ Part of the solution came in the form of what are called "web-fonts"
 
 ## Web-fonts ?
 
-Well, as the name itself tells, a 'web-font' [^2] is pretty much a web-asset that gets loaded on-the-fly (based on our configurations) & is then used by the browser's rendering engine as if it is picking up a _local_ 'font-asset', thus ensuring all a uniform user-experience across different types of environments.
+Well, as the name itself tells, a 'web-font' [^2] is pretty much a web-asset that gets loaded on-the-fly (based on our configurations) & is then used by the browser's rendering engine as if it is picking up a _local_ 'font-asset', thus ensuring a uniform user-experience across different  environments.
 
 The downside to this approach is the slightly larger load-time for our site (barely noticable if we manage to keep the number of font-assets to a minimum). 
 
