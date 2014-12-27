@@ -43,17 +43,17 @@ Well, I wanted to have my blog rendered in Optima.
 ### After...
 `$base-font-family : Optima, Helvetica, Arial, sans-serif`
 
-Optima has been one of my faourite fonts & I madly wanted to try it on my site.
+Optima has been one of my favourite fonts & I madly wanted to try it on my site.
 
-I intuitively chose [Optima][link_optima] as the over-riding value in list/property: `$base-font-family` in `main.scss` & proceeded to _drool over_ the resultant rendering.
+I intuitively chose [Optima][link_optima] as the over-riding value in the list/property: `$base-font-family` in `main.scss`, save it, refresh the browser & proceeded to _drool over_ the resultant rendering...
 
 **Ah! What a beautiful font!**
 
 No wonder---the Optima typeface was created by one of the most respected font-designers in the world, [Hermann Zapf][link_hermann_zapf], way back in 1952.(!!)
 
-## The Problem
-
 But my joy was short-lived.
+
+## The Problem
 
 When I tried viewing the same pages on a Windows machine, I realized that Optima was not installed, & therefore, the rendering engine fell-back to whatever font it had available (in my case, some "sans-serif" font like Helvetica, or Arial.)
 
