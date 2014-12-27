@@ -1,10 +1,10 @@
 # Site settings
-title: Biscuits in Tea . . . ! &hearts; &#9786
+title: Biscuits in Tea . . . ! &hearts; &#9786;
 email: raghu.ugare@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  A collection of writings with which I want to share my discoveries of little gems & nuggets related to Computer Science and Programming in particular, and some other topics in general. The writings could be specific to a some programming language, or be about a more general concept like Algorithms or Data-structures.
-  Thanks to all the great Gurus & Pioneers of Computer Science, and Mathematics on whose shoulders we're able to see far far more...
-  
+  Please feel free to contact me in case you have any comments, feedback or suggestions.
+  Thanks!
+  <br/>  
   - Raghu Ugaré
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site

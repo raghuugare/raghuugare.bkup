@@ -2,18 +2,35 @@
 
   <div class="wrapper">
 
-    <!--<h2 class="footer-heading">{{ site.title }}</h2>-->
+    <h2 class="footer-heading">&copy; Raghu Ugaré</h2>
 
     <div class="footer-col-wrapper">
       <div class="footer-col  footer-col-1">
+        <!--
         <ul class="contact-list">
-          <li>{{ site.title }}</li>
+          <li>&copy;Raghu Ugaré</li>
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
         </ul>
-      </div>
+        -->     
+      <!--</div>
 
-      <div class="footer-col  footer-col-2">
+      <div class="footer-col  footer-col-3">-->
         <ul class="social-media-list">
+          <li>
+            <a href="mailto:{{ site.email }}">
+              <span class="icon  icon--mail">
+                <svg viewBox="0 0 100 100">
+                  <path fill = "#828282" d="M11.627,23.462v53.925h81.351V23.462H11.627z M52.303,56.763L18.936,27.462h66.733L52.303,56.763z M39.011,50.415
+                  L15.627,70.95V29.88L39.011,50.415z M42.042,53.077l10.26,9.01l10.26-9.01l23.128,20.31H18.915L42.042,53.077z M65.593,50.416
+                  L88.978,29.88V70.95L65.593,50.416z"/>
+                </svg>
+              </span>
+
+              <span class="username">e-mail</span>
+            </a>
+          </li>
+          
+
           {% if site.github_username %}
           <li>
             <a href="https://github.com/{{ site.github_username }}">
@@ -45,12 +62,12 @@
         </ul>
       </div>
 
-<!--
+
       <div class="footer-col  footer-col-3">
         <p class="text">{{ site.description }}</p>
       </div>
     </div>
--->
+
   </div>
 
 </footer>
