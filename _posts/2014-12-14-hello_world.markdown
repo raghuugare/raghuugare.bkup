@@ -44,7 +44,7 @@ public class Greeter {
 
     public void static main(String[] args) {
         Greeter greeter = new Greeter();
-        String greeting = greeter.greet("world");
+        String greeting = greeter.greet("World");
         System.out.println(greeting);
     }
 
