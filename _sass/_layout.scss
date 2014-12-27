@@ -186,6 +186,7 @@
 .post-link {
     display: block;
     font-size: 24px;
+    font-family: $post-link-font-family;
 }
 
 
@@ -198,7 +199,11 @@
 }
 
 .post-title {
+    font-family: $title-font-family;
+    font-style: normal;
     font-size: 42px;
+
+    color: $title-color;
     letter-spacing: -1px;
     line-height: 1;
 

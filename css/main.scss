@@ -3,19 +3,35 @@
 ---
 @charset "utf-8";
 
+// ===========================================
+// My variables
+
+$code-font-family: anonymous-pro, monospace;
+$code-font-style: normal;
+$code-font-weight: 300; 
+$code-font-size:  15px;
+
+$title-font-family: lato, sans-serif;
+$title-color: #fa8221;
+
+$post-link-font-family: lato, sans-serif;
+
+// ===========================================
 
 
 // Our variables
-$base-font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
+// Some nice fonts (albeit available locally! :-( ) : Optima, Seravek, Avenir, ...
+
+$base-font-family: merriweather, Helvetica Neue, Helvetica, Arial, sans-serif;
+$base-font-size:   14px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
 $text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+$background-color: #fdfdfd; // #faf5b8; // #fcead0; // #effcd0; // #e9fcba;
+$brand-color:      #2a7ae2; // #6bd538;   
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);

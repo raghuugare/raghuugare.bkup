@@ -90,6 +90,7 @@ h1, h2, h3, h4, h5, h6 {
  */
 a {
     color: $brand-color;
+    font-weight: 400;
     text-decoration: none;
 
     &:visited {
@@ -127,7 +128,10 @@ blockquote {
  */
 pre,
 code {
-    font-size: 15px;
+    font-family: $code-font-family;
+    font-style: $code-font-style;
+    font-weight: $code-font-weight;
+    font-size: $code-font-size;
     border: 1px solid $grey-color-light;
     border-radius: 3px;
     background-color: #eef;
