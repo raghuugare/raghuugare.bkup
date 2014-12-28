@@ -29,19 +29,19 @@ It seems to be very simple to change fonts on a github pages site.
 
 To change the font used for almost all text (except code), all you do is add the font you want to the beginning of the following variable in `main.scss`:
 
-`$base-font-family`
+    $base-font-family
 
 Let me take you through a small example change I actually did locally.
 
 ### Before...
-`$base-font-family : Helvetica, Arial, sans-serif`
+    $base-font-family : Helvetica, Arial, sans-serif
 
 This means 'try Helvetica first, if not available try Arial, and if not, some sans-serif font that is available.'
 
 Well, I wanted to have my blog rendered in Optima.
 
 ### After...
-`$base-font-family : Optima, Helvetica, Arial, sans-serif`
+    $base-font-family : Optima, Helvetica, Arial, sans-serif
 
 Optima has been one of my favourite fonts & I madly wanted to try it on my site.
 
