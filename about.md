@@ -47,7 +47,7 @@ And when I was in the UK, thanks to my loving friends, it was tea with the class
 
 ## But, it's not just about Biscuits and Tea!
 
-### ![icon_cup]({{site.url}}/assets/icons/rags_icon_128_by_128_cup.png) + ![icon_computer]({{site.url}}/assets/icons/rags_icon_128_by_128_computer.png) + ![icon_ink_pen]({{site.url}}/assets/icons/rags_icon_128_by_128_ink_pen.png) = ![icon_smile]({{site.url}}/assets/icons/rags_icon_128_by_128_smile.png)
+## ![icon_cup]({{site.url}}/assets/icons/rags_icon_128_by_128_cup.png) + ![icon_computer]({{site.url}}/assets/icons/rags_icon_128_by_128_computer.png) + ![icon_ink_pen]({{site.url}}/assets/icons/rags_icon_128_by_128_ink_pen.png) = ![icon_smile]({{site.url}}/assets/icons/rags_icon_128_by_128_smile.png)
 
 Through this site, 
 

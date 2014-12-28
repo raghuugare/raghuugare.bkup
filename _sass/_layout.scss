@@ -181,8 +181,10 @@
 }
 
 .post-meta {
+    font-family: $base-font-family;
     font-size: $small-font-size;
-    color: $grey-color;
+    font-weight: 300;
+    color: #f00abf; // $grey-color;
 }
 
 .post-link {

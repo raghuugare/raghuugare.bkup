@@ -15,7 +15,7 @@ I do all of this---in my effort to somehow produce _'intonations & emphasis'_ of
 
 Some of my favourite programs (& books written about them) have been [Donald Knuth][link_donald_knuth]'s [TeX][link_TeX] typsetting system & [Leslie Lamport][link_leslie_lamport]'s [LaTeX][link_LaTeX] built upon TeX. 
 
-I marvel at how TeX especially, takes care of hundreds of tiny technical details (such as _kerning, ligatures, breaking lines,_ etc.) that go into making text so readable & enjoyable.
+I marvel at how TeX especially, takes care of hundreds of tiny technical details (such as _kerning, ligatures, breaking lines,_ etc.) that go into making text so readable & enjoyable. As Lamport puts it, these tools help authors turn mere **"typing into typography"**.
 
 Hats off to the Printing/Publishing/Digital/Computer-Science fraternity for their constant innovations! From hot-metal types in real foundries to digital type-faces manipulated with [Bézier curves][link_bézier_curves] & mathematical wizardry, we have indeed come a long way. :)
 
