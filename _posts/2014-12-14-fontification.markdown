@@ -19,7 +19,7 @@ I marvel at how TeX especially, takes care of hundreds of tiny technical details
 
 Hats off to the Printing/Publishing/Digital/Computer-Science fraternity for their constant innovations! From hot-metal types in real foundries to digital type-faces manipulated with [Bézier curves][link_bézier_curves] & mathematical wizardry, we have indeed come a long way. :)
 
-> Check out the 'mathematical & algorithmic typography' work by the father-son (and I'd even say, 'math-art') duo of [Erik Demaine][link_erik_demaine] & [Martin Demaine][link_martin_demaine] at [this site][link_erik_typography]. You too might enjoy playing around with [the glass-'squishing' font][link_erik_glass_fonts] there! Beautiful indeed!
+> Check out the 'mathematical & algorithmic typography' work by the father-son duo (and I would even say, 'math-art duo') of [Erik Demaine][link_erik_demaine] & [Martin Demaine][link_martin_demaine] at [this site][link_erik_typography]. You too might enjoy playing around with [the glass-'squishing' font][link_erik_glass_fonts] there! Beautiful indeed!
 
 As for the web, we have [Markdown][link_markdown] & [Textile][link_textile], two of the several light-weight mark-up languages.
 
