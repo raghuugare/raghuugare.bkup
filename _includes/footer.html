@@ -2,8 +2,6 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">&copy; Raghu Ugaré, 2014</h2>
-
     <div class="footer-col-wrapper">
       <div class="footer-col  footer-col-1">
         <!--
@@ -67,6 +65,9 @@
         <p class="text">{{ site.description }}</p>
       </div>
     </div>
+
+    <h2 class="footer-heading">Copyright &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>, {{site.author}}. All rights reserved.
+</h2>
 
   </div>
 
