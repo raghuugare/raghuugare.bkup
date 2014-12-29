@@ -7,7 +7,7 @@ categories: LISP
 
 ---
 
-Started my journey (finally!) into the magical world of [LISP][LISP_link], something I've pined for long.
+Started my journey (finally!) into the magical world of [LISP][link_LISP], something I've pined for long.
 
 And began learning so many new things that I felt I should record my discoveries somewhere, more like a 'travelogue' (or a monologue? :)).
 
@@ -45,7 +45,7 @@ Among many things, I learnt that LISP is --
 
 **Note:** Well, this _'Hello',_ is just the tip of the proverbial iceberg or rather the 'ice-breaker' of our conversation about LISP! Sit tight & brace yourself, as we sail along uncharted territories, exploring some truly _ingenious_ ideas of **Functional Programming** in general & **LISP** in particular. Many more articles to come!
 
-[LISP_link]: http://LISP.com
+[link_LISP]: http://en.wikipedia.org/wiki/Lisp_%28programming_language%29
 [link_Common_LISP]: http://en.wikipedia.org/wiki/Common_Lisp
 [link_Scheme]: http://en.wikipedia.org/wiki/Scheme_(programming_language)
 [link_EMACS]: http://www.gnu.org/software/emacs/
