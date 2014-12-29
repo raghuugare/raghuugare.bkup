@@ -11,7 +11,10 @@
 }
 
 .site-title {
-    font-size: 26px;
+    font-family: $site-font-family;
+    font-style: normal;
+    font-size: $site-font-size;
+    font-weight: $site-font-weight; 
     line-height: 56px;
     letter-spacing: -1px;
     margin-bottom: 0;
@@ -189,8 +192,9 @@
 
 .post-link {
     display: block;
-    font-size: 24px;
+    font-size: $post-link-font-size;
     font-family: $post-link-font-family;
+    font-weight: $post-link-font-weight;
 }
 
 

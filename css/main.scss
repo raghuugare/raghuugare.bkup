@@ -6,9 +6,13 @@
 // ===========================================
 // My variables
 
+$site-font-family: lato, sans-serif;
+$site-font-size: 30px;
+$site-font-weight: 400;
+
 $blockquote-font-family: lato, sans-serif;
 $blockquote-font-style: normal;
-$blockquote-font-size: 24px;
+$blockquote-font-size: 20px;
 $blockquote-font-weight: 300;
 
 $code-font-family: anonymous-pro, monospace;
@@ -20,6 +24,10 @@ $title-font-family: lato, sans-serif;
 $title-color: #fa8221;
 
 $post-link-font-family: lato, sans-serif;
+$post-link-font-weight: 400;
+$post-link-font-size: 24px;
+
+$body-font-weight: 300;
 
 // ===========================================
 
@@ -28,7 +36,7 @@ $post-link-font-family: lato, sans-serif;
 // Some nice fonts (albeit available locally! :-( ) : Optima, Seravek, Avenir, ...
 
 $base-font-family: merriweather, Helvetica Neue, Helvetica, Arial, sans-serif;
-$base-font-size:   14px;
+$base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
