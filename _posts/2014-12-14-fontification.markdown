@@ -111,13 +111,25 @@ As they say, Edge Web fonts is _'a library of fonts for your website'_ brought t
 
 Long story short, I finally chose (for now at-least!) a set of fonts for the normal text as well as code-snippets on my blog.
 
-I wish your eyes are not strained by my selection, but instead are cajoled & coaxed along...
+## How ?
 
-Hope my font-meddling & this article help you in finding your own favourite font combination too!
+In order to use the typeface **Lato**, I added the following `<script>` element in my `head.html` file:
+    
+    <script src="//use.edgefonts.net/lato:n1,i1,n3,i3,n4,i4,n7,i7,n9,i9.js"></script>
 
-For help on how to go about doing it for your blog/site, please refer to this [link][link_adobe_edge_web_fonts_help].
+**Done! That's it!**
 
-Have a "font-astic" time !
+Now, I could directly use "lato" as a value in `$base-font-family`, etc. as usual (i.e., in place of Optima in the above snippets).
+
+Hope you like my font-selection.
+
+And hope my font-meddling & this article help you in finding your own favourite font combination!
+
+I wish that your eyes are *not* strained, but instead are cajoled & coaxed along...
+
+For a more detailed help on how to go about doing it for your blog/site, please refer to this [link][link_adobe_edge_web_fonts_help].
+
+Have a "**font**-astic" time !
 
 ---
 
