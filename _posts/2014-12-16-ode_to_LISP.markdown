@@ -43,7 +43,9 @@ Among many things, I learnt that LISP is --
 + powerful
 + self-referential in its use of lists as both **code** as well as **data**
 
-**Note:** Well, this _'Hello',_ is just the tip of the proverbial iceberg or rather the 'ice-breaker' of our conversation about LISP! Sit tight & brace yourself, as we sail along uncharted territories, exploring some truly _ingenious_ ideas of **Functional Programming** in general & **LISP** in particular. Many more articles to come!
+**Note:** Well, this _'Hello',_ is just the tip of the proverbial iceberg or rather the 'ice-breaker' of our conversation about LISP. Sit tight & brace yourself, as we sail along uncharted territories, exploring some truly _ingenious_ ideas of **Functional Programming** in general & **LISP** in particular. 
+
+Many more articles to come!
 
 [link_LISP]: http://en.wikipedia.org/wiki/Lisp_%28programming_language%29
 [link_Common_LISP]: http://en.wikipedia.org/wiki/Common_Lisp

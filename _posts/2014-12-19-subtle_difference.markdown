@@ -7,7 +7,7 @@ categories: LISP
 
 ---
 
-As I began my journey into the wonderful world of [LISP], and I started understanding the so-called **predicates**.[^1] 
+As I began my journey into the wonderful world of [LISP][link_LISP], and I started understanding the so-called **predicates**.[^1] 
 
 [^1]: Predicates (in LISP) are nothing but functions that answer Yes/No type of questions. By convention LISP predicate-names end in the letter **p** (stands for 'predicate'!) 
 
@@ -54,7 +54,7 @@ _Output:_ `T`
 
 ---
 
-## Notes (Q&A)
+## Q & A
 
 --- 
 
