@@ -11,6 +11,8 @@ I love fonts to an almost fanatic extent.
 
 Other than meddling with different typefaces, with Serifs & without ('sans' [^1] Serif), I have been notorious among my friends & peers for my heavy use of colors also to the above mix, giving rise to a _'psychedelic riot of colors'_ in my blog articles & mails.
 
+[^1]: _**sans**_ is Latin for "without". Thus, a "Sans Serif" typeface means there are no "serifs" on the 'extremities" of different symbols in that typeface.
+
 I do all of this---in my effort to somehow produce _'intonations & emphasis'_ of speech in written text, using colors, fonts and their weights & styles as my tools.
 
 Some of my favourite programs (& books written about them) have been [Donald Knuth][link_donald_knuth]'s [TeX][link_TeX] typsetting system & [Leslie Lamport][link_leslie_lamport]'s [LaTeX][link_LaTeX] built upon TeX. 
@@ -19,7 +21,7 @@ I marvel at how TeX especially, takes care of hundreds of tiny technical details
 
 Hats off to the Printing/Publishing/Digital/Computer-Science fraternity for their constant innovations! From hot-metal types in real foundries to digital type-faces manipulated with [Bézier curves][link_bézier_curves] & mathematical wizardry, we have indeed come a long way. :)
 
-> Check out the 'mathematical & algorithmic typography' work by the father-son duo (and I would even say, 'math-art duo') of [Erik Demaine][link_erik_demaine] & [Martin Demaine][link_martin_demaine] at [this site][link_erik_typography]. You too might enjoy playing around with [the glass-'squishing' font][link_erik_glass_fonts] there! Beautiful indeed!
+> Check out the 'mathematical & algorithmic' typography work by the father-son duo (and I would even say, 'math-art' duo) of [Erik Demaine][link_erik_demaine] & [Martin Demaine][link_martin_demaine] at [this site][link_erik_typography]. You too might enjoy playing around with [the glass-'squishing' font][link_erik_glass_fonts] there! Beautiful indeed!
 
 As for the web, we have [Markdown][link_markdown] & [Textile][link_textile], two of the several light-weight mark-up languages.
 
@@ -38,18 +40,22 @@ Let me take you through a small example change I did locally.
 
 This means 'try Helvetica first, if not available try Arial, and if not, some sans-serif font that is available.'
 
-Well, I wanted to have my blog rendered in Optima.
+Well, I wanted to have my blog rendered in a font of my choice.
 
 ### After...
     $base-font-family : Optima, Helvetica, Arial, sans-serif
 
-Optima has been one of my favourite fonts & I madly wanted to try it on my site.
+As you can see above, I added `Optima` to the mix.
 
-I intuitively chose [Optima][link_optima] as the over-riding value in the list/property: `$base-font-family` in `main.scss`, save it, refresh the browser & proceeded to _drool over_ the resultant rendering...
+Optima has been one of my favourite fonts & I so badly wanted to try it.
+
+I then saved this change in `main.scss`, refresh the browser & proceeded to _drool over_ the resultant rendering on my local copy of the github pages site...
 
 **Ah! What a beautiful font!**
 
-No wonder---the Optima typeface was created by one of the most respected font-designers in the world, [Hermann Zapf][link_hermann_zapf], way back in 1952.(!!)
+No wonder---the [Optima][link_optima] typeface was created by one of the most respected font-designers in the world, [Hermann Zapf][link_hermann_zapf], way back in 1952.(**!!** [^2])
+
+[^2]: In [chess annotation][link_Chess_annotations], **!!** is used to annotate a move. It means "brilliant".
 
 But my joy was short-lived.
 
@@ -77,7 +83,9 @@ Part of the solution came in the form of what are called "web-fonts"
 
 ## Web-fonts ?
 
-Well, as the name itself tells, a 'web-font' [^2] is pretty much a web-asset that gets loaded on-the-fly (based on our configurations) & is then used by the browser's rendering engine as if it is picking up a _local_ 'font-asset', thus ensuring a uniform user-experience across different  environments.
+Well, as the name itself tells, a 'web-font' [^3] is pretty much a web-asset that gets loaded on-the-fly (based on our configurations) & is then used by the browser's rendering engine as if it is picking up a _local_ 'font-asset', thus ensuring a uniform user-experience across different  environments.
+
+[^3]: The term 'web-font' is much like 'web-service'---a 'service' accessible over the web. A 'web-font' is similarly a font-resource accessible over the web.
 
 The downside to this approach is the slightly larger load-time for our site (barely noticable if we manage to keep the number of font-assets to a minimum). 
 
@@ -115,10 +123,6 @@ Have a "font-astic" time !
 
 ### Footnotes
 
-[^1]: sans = without. Thus "Sans Serif" means "without serifs" on the different symbols...
-
-[^2]: The term 'web-font' is much like 'web-service'---a 'service' accessible over the web. A 'web-font' is similarly a font-resource accessible over the web.
-
 
 [link_optima]:  http://en.wikipedia.org/wiki/Optima
 [link_courier]: http://en.wikipedia.org/wiki/Courier_%28typeface%29
@@ -140,3 +144,4 @@ Have a "font-astic" time !
 [link_martin_demaine]: http://en.wikipedia.org/wiki/Martin_Demaine
 [link_erik_typography]: http://erikdemaine.org/fonts/
 [link_erik_glass_fonts]: http://erikdemaine.org/fonts/squish/
+[link_Chess_annotations]: http://en.wikipedia.org/wiki/Chess_annotation_symbols
