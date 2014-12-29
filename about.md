@@ -11,7 +11,7 @@ permalink: /about/
 This has been **brewing** in _the kettle of my heart/mind_ since long.
 The time has finally come to _**serve**_ [^1] it!
 
-[^1]: _"serve"_ on the web, of-course! :)
+[^1]: _"serve"_ on the web, of course! :)
 
 `Confession:` I am an _ardent_ lover of **[Tea][link_tea]**---a fact my friends all over the world can vouch for.
 
@@ -31,7 +31,7 @@ Just a tiny _cup o' tea_ makes me
 
 + ...feel a strange kind of WARMTH & BLiSS that is, to put it in my way, PRiCE-Le$$ ! :)
 
-> **LOST and FOUND:** It is when we get "LOST" in something that we often "FIND" something beautiful ! :)
+> It is when we get "LOST" in something that we often "FIND" something beautiful ! :)
 
 **Don't you agree ? :)**
 
