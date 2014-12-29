@@ -3,11 +3,11 @@
 layout: post
 title:  "LISP : consp or listp ?"
 date:   2014-12-19 17:25:10
-categories: programming
+categories: LISP
 
 ---
 
-As I began my journey into the wonderful world of LISP, and I started understanding the so-called **predicates**. [^1] 
+As I began my journey into the wonderful world of [LISP], and I started understanding the so-called **predicates**.[^1] 
 
 [^1]: Predicates (in LISP) are nothing but functions that answer Yes/No type of questions. By convention LISP predicate-names end in the letter **p** (stands for 'predicate'!) 
 
@@ -26,7 +26,7 @@ Seems so, but it is not the case.
 
 ### So, are consp & listp _not_ the same? 
 
-Short answer : They are _not_ the same. There's a subtle difference due to one chief exception the rule...
+Short answer : They are _not_ the same. There's a subtle difference due to one chief exception.
 
 Note that `NIL` is a list, also denoted by `()`. But it is  _not_ a cons-cell.
 
@@ -37,6 +37,7 @@ I hope you 'got' the _subtle_ difference between `consp` & `listp` predicates in
 It should now be clear what the following code snippets produce:
 
 {% highlight LISP %}
+
 (consp NIL)
 
 {% endhighlight %}
@@ -45,6 +46,7 @@ _Output:_  `NIL`
 where as,
 
 {% highlight LISP %}
+
 (listp NIL)
 
 {% endhighlight %}
@@ -52,9 +54,11 @@ _Output:_ `T`
 
 ---
 
-## Notes
+## Notes (Q&A)
 
-### What is a cons-cell?
+--- 
+
+**What is a cons-cell?**
 
 A _cons-cell_, in Java-parlance, is like the node struct/class of a linked-list. Like so,
 
@@ -67,10 +71,20 @@ class Node<T> {
 
 Note that the `data` field above is also a pointer/reference to some location in memory, just like `next` points to the 'next' node of the list. Thus a _cons-cell_ is essentially a pair of pointers used to represent lists in LISP. In a singly-linked-list the last node has `next` set to `null`.
 
-LISP uses this cons-cell concept to represent lists. For more information on cons-cells, you can refer to [this introductory article][link_cons_cell].Thank you!
+LISP uses this cons-cell concept to represent lists. For more information on cons-cells, you can refer to [this introductory article][link_cons_cell]. Enjoy!
+
+---
+
+**If a predicate always returns Yes/No or True/False why does the output here show `T` & `NIL` ?**
+
+Good! You will understand this when you learn the basics of LISP.
+
++ LISP denotes the boolean value of "true" by the symbol `T`, and uses `NIL` for "false". To make it clear, No, LISP does **not** use `F` for "false", as one expect!
++ Note that `NIL` is also used to represent an empty list i.e., `()`. Thus, if you evaluate the expression `(equalp NIL ())` you will get `T`
 
 ---
 
 ### Footnotes
 
 [link_cons_cell]: http://c2.com/cgi/wiki?ConsCell
+[link_LISP]: http://en.wikipedia.org/wiki/Lisp_%28programming_language%29
