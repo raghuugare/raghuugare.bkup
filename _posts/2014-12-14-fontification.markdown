@@ -5,7 +5,7 @@ date:   2014-12-14 20:20:10
 categories: general
 ---
 
-## My (fontastic!) journey
+## My journey towards the "font"-ain of Beauty! :)
 
 I love fonts to an almost fanatic extent.
 
@@ -134,7 +134,6 @@ Have a "**font**-astic" time !
 ---
 
 ### Footnotes
-
 
 [link_optima]:  http://en.wikipedia.org/wiki/Optima
 [link_courier]: http://en.wikipedia.org/wiki/Courier_%28typeface%29
