@@ -5,7 +5,7 @@ date:   2014-12-14 20:20:10
 categories: general
 ---
 
-## My journey towards the "font"-ain of Beauty! :)
+## My journey to the "font"-ain of Beauty! :)
 
 I love fonts to an almost fanatic extent.
 
