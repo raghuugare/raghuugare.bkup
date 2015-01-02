@@ -28,7 +28,7 @@ int main() {
 
 {% endhighlight %}
 
-Above, you saw a simple C-program with a function to compute the `factorial` _defined & exercised_.
+Above is a simple C-program with a function to compute the `factorial` of a positive integer _defined & exercised_.
 
 ## A Java program...
 
