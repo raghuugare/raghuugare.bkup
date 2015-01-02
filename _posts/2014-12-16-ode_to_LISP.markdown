@@ -49,6 +49,8 @@ Many more articles to come!
 
 ---
 
++ Some work in Scheme, working through the legendary [SICP][link_SICP] is [here][link_rags_SICP]
+
 
 [link_LISP]: http://en.wikipedia.org/wiki/Lisp_%28programming_language%29
 [link_Common_LISP]: http://en.wikipedia.org/wiki/Common_Lisp
@@ -56,4 +58,6 @@ Many more articles to come!
 [link_EMACS]: http://www.gnu.org/software/emacs/
 [slime_id]: http://common-lisp.net/project/slime/ "SLIME mode for Emacs"
 [link_SBCL]: http://www.sbcl.org/
+[link_SICP]: 
+[link_rags_SICP]: 
 
