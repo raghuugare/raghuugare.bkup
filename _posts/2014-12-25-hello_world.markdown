@@ -51,3 +51,14 @@ public class Greeter {
 }
 
 {% endhighlight %}
+
+## A Lisp program/function...
+
+Now, we show a simple LISP function to print the same. The function used is `format`.
+
+{% highlight lisp %}
+
+(format t "Hello World ! :) ~%")
+;; ~% stands for our ubiquitous "\n" (newline) character...
+
+{% endhighlight %}
