@@ -43,6 +43,8 @@ Among many things, I learnt that LISP is --
 + powerful
 + self-referential in its use of lists as both **code** as well as **data**
 
+LISP pioneered/introduced almost all of the various innovative features of the many popular dynamic programming languages in use today.
+
 **Note:** Well, this _'Hello',_ is just the tip of the proverbial iceberg or rather the 'ice-breaker' of our conversation about LISP. Sit tight & brace yourself, as we sail along uncharted territories, exploring some truly _ingenious_ ideas of **Functional Programming** in general & **LISP** in particular. 
 
 Many more articles to come!
