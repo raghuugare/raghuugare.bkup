@@ -47,7 +47,7 @@ LISP pioneered/introduced almost all of the various innovative features of the m
 
 **Note:** Well, this _'Hello',_ is just the tip of the proverbial iceberg or rather the 'ice-breaker' of our conversation about LISP. Sit tight & brace yourself, as we sail along uncharted territories, exploring some truly _ingenious_ ideas of **Functional Programming** in general & **LISP** in particular. 
 
-Many more articles to come!
+Many more articles to come showcasing the power & elegance of this classic programming language!
 
 ---
 
