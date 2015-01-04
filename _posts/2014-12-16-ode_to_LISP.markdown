@@ -17,7 +17,7 @@ Perhaps, someone travelling or planning to take this path will find it useful in
 
 First, I made sure I had the following things sorted out:
 
-+ Choosing a 'dialect' of LISP to learn. [Common LISP][link_Common_LISP] & [Scheme][link_Scheme] are the 2 most popular & enduring ones out there. I chose Common LISP for now.
++ Choosing a 'dialect' of LISP to learn. [Common LISP][link_Common_LISP] & [Scheme][link_Scheme] are the 2 most popular & enduring ones out there. I chose Common LISP for now (though I love Scheme too!).
 + Install an implementation of ANSI compliant Common LISP. I went with the free, open-source _Steel Bank Common LISP (SBCL)_ which you can obtain [here][link_SBCL].
 + One of my favourite editors ---[Emacs][link_EMACS]---installed version 24.4 (the latest stable version, as of writing this).
 + Lastly, installed the must-have [SLIME][slime_id] mode package in Emacs that allows us to bring up the 'top-level' REPL prompt within Emacs for my LISP experiments!
