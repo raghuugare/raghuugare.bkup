@@ -13,13 +13,13 @@ The time has finally come to _**serve**_ [^1] it!
 
 [^1]: _"serve"_ on the web, of course! :)
 
-`Confession:` I am an _ardent_ lover of **[Tea][link_tea]**---a fact my friends all over the world can vouch for.
+`Confession:` I am an _ardent_ lover of **[Tea][link_tea]{:target="_blank"}**---a fact my friends all over the world can vouch for.
 
-(No offence meant; you are free to substitute Tea with **[Coffee][link_coffee]** or whatever beverage (or activity!) that you love with the same _connotation_. My dear friend **[Vijay][link_vijay]** would definitely go for Coffee, while my dear wife Rajeshwari would clearly choose fresh fruit-juice!)
+(No offence meant; you are free to substitute Tea with **[Coffee][link_coffee]{:target="_blank"}** or whatever beverage (or activity!) that you love with the same _connotation_. My dear friend **[Vijay][link_vijay]{:target="_blank"}** would definitely go for Coffee, while my dear wife Rajeshwari would clearly choose fresh fruit-juice!)
 
-And _dunking_ [^2] [biscuits][link_biscuit] in piping hot-tea is such a **['Zen'][link_zen]**-experience in itself! :)
+And _dunking_ [^2] [biscuits][link_biscuit]{:target="_blank"} in piping hot-tea is such a **['Zen'][link_zen]{:target="_blank"}**-experience in itself! :)
 
-[^2]: Yes, ['dunk'][link_dunk_meaning] rather than just 'dip'. Look it up by clicking on the word. :)
+[^2]: Yes, ['dunk'][link_dunk_meaning]{:target="_blank"} rather than just 'dip'. Look it up by clicking on the word. :)
 
 Just a tiny _cup o' tea_ makes me
 
@@ -35,15 +35,15 @@ Just a tiny _cup o' tea_ makes me
 
 **Don't you agree ? :)**
 
-Well, when I am in [India][link_india]---both in my native village as well as in [Bangalore][link_bangalore], it is usually hot tea(with milk) laced with aromatic _[Lemon-Grass][link_lemon_grass],_ accompanied by _melt-in-the-mouth_ goodness of **[Parle-G][link_parle_g]** biscuits! &hearts; :)
+Well, when I am in [India][link_India]{:target="_blank"}---both in my native village as well as in [Bangalore][link_bangalore]{:target="_blank"}, it is usually hot tea(with milk) laced with aromatic _[Lemon-Grass][link_lemon_grass]{:target="_blank"},_ accompanied by _melt-in-the-mouth_ goodness of **[Parle-G][link_parle_g]{:target="_blank"}** biscuits! &hearts; :)
 
 ![image_parle_g]({{site.url}}/assets/images/parle_g_in_tea.jpg) 
 
-And when I was in the UK, thanks to my loving friends, it was tea with the classic **[Mc-Vities][link_mc_vities]** Digestives:
+And when I was in the UK, thanks to my loving friends, it was tea with the classic **[Mc-Vities][link_mc_vities]{:target="_blank"}** Digestives:
 
 ![image_mc_vities]({{site.url}}/assets/images/mc_vities_in_tea.jpg) 
 
-(the above image is courtesy _The Telegraph, UK,_ in a [recent story][link_telegraph_uk_biscuits])
+(the above image is courtesy _The Telegraph, UK,_ in a [recent story][link_telegraph_uk_biscuits]{:target="_blank"})
 
 ## But, it's not just about Biscuits and Tea!
 
@@ -81,9 +81,9 @@ I am indeed incredibly blessed to have come into the contact of some truly great
 
 Please keep reading these free-flowing 'letters' to YOU --- I hope they make you smile, for a while! :)
 
-Do visit my [personal blog][link_personal_blog] for thoughts on other topics...
+Do visit my [personal blog][link_personal_blog]{:target="_blank"} for thoughts on other topics...
 
-Recently, I also wrote an article on [Medium][link_medium] about [the Genius of Sreenivasa Ramanujan][link_medium_story_ramanujan].
+Recently, I also wrote an article on **Medium** about [the Genius of Sreenivasa Ramanujan][link_medium_story_ramanujan]{:target="_blank"}.
 
 Have a wonder-filled time with your dear ones!
 
@@ -114,7 +114,7 @@ Planet Earth
 [link_mc_vities]: http://en.wikipedia.org/wiki/McVitie%27s
 [link_dunk_meaning]: http://www.thefreedictionary.com/dunk
 [link_zen]: http://en.wikipedia.org/wiki/Zen
-[link_india]: http://en.wikipedia.org/wiki/India
+[link_India]: http://en.wikipedia.org/wiki/India
 [link_bangalore]: http://en.wikipedia.org/wiki/Bangalore
 [link_tea]: http://en.wikipedia.org/wiki/Tea
 [link_coffee]: http://en.wikipedia.org/wiki/Coffee
