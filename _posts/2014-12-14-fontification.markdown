@@ -15,15 +15,15 @@ Other than meddling with different typefaces, with Serifs & without ('sans' [^1]
 
 I do all of this---in my effort to somehow produce _'intonations & emphasis'_ of speech in written text, using colors, fonts and their weights & styles as my tools.
 
-Some of my favourite programs (& books written about them) have been [Donald Knuth][link_donald_knuth]'s [TeX][link_TeX] typsetting system & [Leslie Lamport][link_leslie_lamport]'s [LaTeX][link_LaTeX] built upon TeX. 
+Some of my favourite programs (& books written about them) have been [Donald Knuth][link_donald_knuth]{:target="_blank"}'s [TeX][link_TeX]{:target="_blank"} typsetting system & [Leslie Lamport][link_leslie_lamport]{:target="_blank"}'s [LaTeX][link_LaTeX]{:target="_blank"} built upon TeX. 
 
 I marvel at how TeX especially, takes care of hundreds of tiny technical details (such as _kerning, ligatures, breaking lines,_ etc.) that go into making text so readable & enjoyable. As Lamport puts it, these tools help authors turn mere **"typing into typography"**.
 
-Hats off to the Printing/Publishing/Digital/Computer-Science fraternity for their constant innovations! From hot-metal types in real foundries to digital type-faces manipulated with [Bézier curves][link_bézier_curves] & mathematical wizardry, we have indeed come a long way. :)
+Hats off to the Printing/Publishing/Digital/Computer-Science fraternity for their constant innovations! From hot-metal types in real foundries to digital type-faces manipulated with [Bézier curves][link_bézier_curves]{:target="_blank"} & mathematical wizardry, we have indeed come a long way. :)
 
-> &#9762; **Warning!** _Digression_ : Check out the 'mathematical & algorithmic' typography work by the father-son duo (and I would even say, 'math-art' duo) of [Erik Demaine][link_erik_demaine] & [Martin Demaine][link_martin_demaine] at [this site][link_erik_typography]. You too might enjoy playing around with [the glass-'squishing' font][link_erik_glass_fonts] there! Beautiful indeed!
+> &#9762; **Warning!** _Digression_ : Check out the 'mathematical & algorithmic' typography work by the father-son duo (and I would even say, 'math-art' duo) of [Erik Demaine][link_erik_demaine]{:target="_blank"} & [Martin Demaine][link_martin_demaine]{:target="_blank"} at [this site][link_erik_typography]{:target="_blank"}. You too might enjoy playing around with [the glass-'squishing' font][link_erik_glass_fonts]{:target="_blank"} there! Beautiful indeed!
 
-As for the web, we have [Markdown][link_markdown] & [Textile][link_textile], two of the several light-weight mark-up languages.
+As for the web, we have [Markdown][link_markdown]{:target="_blank"} & [Textile][link_textile]{:target="_blank"}, two of the several light-weight mark-up languages.
 
 ## Playing with fonts on github pages
 
@@ -53,9 +53,9 @@ I then saved this change in `main.scss`, refresh the browser & proceeded to _dro
 
 **Ah! What a beautiful font!**
 
-No wonder---the [Optima][link_optima] typeface was created by one of the most respected font-designers in the world, [Hermann Zapf][link_hermann_zapf], way back in 1952.(**!!** [^2])
+No wonder---the [Optima][link_Optima]{:target="_blank"} typeface was created by one of the most respected font-designers in the world, [Hermann Zapf][link_Hermann_Zapf]{:target="_blank"}, way back in 1952.(**!!** [^2])
 
-[^2]: In [chess annotation][link_Chess_annotations], **!!** is used to annotate a move. It means "brilliant".
+[^2]: In [chess annotation][link_Chess_annotations]{:target="_blank"}, **!!** is used to annotate a move. It means "brilliant".
 
 But my joy was short-lived.
 
@@ -65,9 +65,9 @@ When I tried viewing the same pages on a Windows machine, I realized that Optima
 
 ## Same problem for code...
 
-Also, another pet peeve of mine was that I wanted some other `"monospace"` font for the code-snippets in my blogs, over-riding the default [Courier][link_courier] family.
+Also, another pet peeve of mine was that I wanted some other `"monospace"` font for the code-snippets in my blogs, over-riding the default [Courier][link_Courier]{:target="_blank"} family.
 
-Again, I hit a similar road-block here, when I was almost dancing with joy looking at the beautiful [Monaco][link_monaco] font used to render my code snipppets. 
+Again, I hit a similar road-block here, when I was almost dancing with joy looking at the beautiful [Monaco][link_Monaco]{:target="_blank"} font used to render my code snipppets. 
 
 I soon realized that this 'simple' tweaking of `main.scss` was **not portable**.
 
@@ -93,7 +93,7 @@ But the upside is that we get the same look in terms of typography everywhere, f
 
 ## Enter Adobe...
 
-Soon, my search for a free web-font 'service' zeroed in on Adobe who I learnt, have been famously providing such a service called [Typekit][link_typekit] for quite long. Really loved some of their blog-series on various little-known minutiae related to fonts! But Typekit is a paid service, and I wondered if little tinkers like me could freely experiment with fonts somehow.
+Soon, my search for a free web-font 'service' zeroed in on Adobe who I learnt, have been famously providing such a service called [Typekit][link_Typekit]{:target="_blank"} for quite long. Really loved some of their blog-series on various little-known minutiae related to fonts! But Typekit is a paid service, and I wondered if little tinkers like me could freely experiment with fonts somehow.
 
 I then came to know that Adobe had come up with exactly the kind of 'free, font-service' that I had in mind! 
 
@@ -101,7 +101,7 @@ I then came to know that Adobe had come up with exactly the kind of 'free, font-
 
 I would like to take this opportunity to thank Adobe for this service indeeed!
 
-This gem of a service is called the **Adobe Edge Web Fonts**, and the collection is available [here][link_adobe_edge_web_fonts].
+This gem of a service is called the **Adobe Edge Web Fonts**, and the collection is available [here][link_adobe_edge_web_fonts]{:target="_blank"}.
 
 As they say, Edge Web fonts is _'a library of fonts for your website'_ brought to us with contributions from Adobe, Google & many font-designers all over the world!
 
@@ -127,7 +127,7 @@ And hope my font-meddling & this article help you in finding your own favourite 
 
 I wish that your eyes are *not* strained, but instead are cajoled & coaxed along...
 
-For a more detailed help on how to go about doing it for your blog/site, please refer to this [link][link_adobe_edge_web_fonts_help].
+For a more detailed help on how to go about doing it for your blog/site, please refer to this [link][link_adobe_edge_web_fonts_help]{:target="_blank"}.
 
 Have a "**font**-astic" time !
 
@@ -135,12 +135,12 @@ Have a "**font**-astic" time !
 
 ### Footnotes
 
-[link_optima]:  http://en.wikipedia.org/wiki/Optima
-[link_courier]: http://en.wikipedia.org/wiki/Courier_%28typeface%29
-[link_monaco]: http://en.wikipedia.org/wiki/Monaco_%28typeface%29 
-[link_hermann_zapf]: http://en.wikipedia.org/wiki/Hermann_Zapf
+[link_Optima]:  http://en.wikipedia.org/wiki/Optima
+[link_Courier]: http://en.wikipedia.org/wiki/Courier_%28typeface%29
+[link_Monaco]: http://en.wikipedia.org/wiki/Monaco_%28typeface%29 
+[link_Hermann_Zapf]: http://en.wikipedia.org/wiki/Hermann_Zapf
 [link_adobe_edge_web_fonts]: https://edgewebfonts.adobe.com
-[link_typekit]: https://typekit.com
+[link_Typekit]: https://typekit.com
 [link_adobe_edge_web_fonts_help]: https://edgewebfonts.adobe.com/help
 [link_adobe]: http://www.adobe.com/
 [link_google]: http://www.google.com/
