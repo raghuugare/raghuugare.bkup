@@ -7,10 +7,9 @@ categories: LISP
 
 ---
 
-As I began my journey into the wonderful world of [LISP][link_LISP], and I started understanding the so-called **predicates**.[^1] 
+As I began my journey into the wonderful world of [LISP][link_LISP]{:target="_blank"}, and I started understanding the so-called **predicates**.[^1] 
 
 [^1]: Predicates (in LISP) are nothing but functions that answer Yes/No type of questions. By convention LISP predicate-names end in the letter **p** (stands for 'predicate'!) 
-
 
 I also began to learn about the predicates that are built-in, such as `oddp`, `evenp`, `atomp`, etc.
 
@@ -71,16 +70,16 @@ class Node<T> {
 
 Note that the `data` field above is also a pointer/reference to some location in memory, just like `next` points to the 'next' node of the list. Thus a _cons-cell_ is essentially a pair of pointers used to represent lists in LISP. In a singly-linked-list the last node has `next` set to `null`.
 
-LISP uses this cons-cell concept to represent lists. For more information on cons-cells, you can refer to [this introductory article][link_cons_cell]. Enjoy!
+LISP uses this cons-cell concept to represent lists. For more information on cons-cells, you can refer to [this introductory article][link_cons_cell]{:target="_blank"}. Enjoy!
 
 ---
 
 **If a predicate always returns Yes/No or True/False why does the output here show `T` & `NIL` ?**
 
-Good! You will understand this when you learn the basics of LISP.
+Good observation! You will understand this when you learn the basics of LISP.
 
 + LISP denotes the boolean value of "true" by the symbol `T`, and uses `NIL` for "false". To make it clear, No, LISP does **not** use `F` for "false", as one expect!
-+ Note that `NIL` is also used to represent an empty list i.e., `()`. Thus, if you evaluate the expression `(equalp NIL ())` you will get `T`
++ Note that `NIL` is also used to represent an empty list i.e., `()`. Thus, the expression `(equalp NIL ())` evaluates to `T` (= true)
 
 ---
 
