@@ -15,9 +15,9 @@ Occasionally, it might contain my ramblings on some other topics too.
 
 A "bit"---pun intended---of explanation about the name is in order.
 
-+ The name happens to form the _[acronym][link_acronym_meaning]_ of `"BiT"`---the smallest unit of storage in Computer-Science. It mirrors my belief that the tiniest spark of an idea or intuition or inspiration can move us to action. I also wanted this to be a collection of several such interesting tid-**bit**s of fun & learning!
++ The name happens to form the _[acronym][link_acronym_meaning]{:target="_blank"}_ of `"BiT"`---the smallest unit of storage in Computer-Science. It mirrors my belief that the tiniest spark of an idea or intuition or inspiration can move us to action. I also wanted this to be a collection of several such interesting tid-**bit**s of fun & learning!
 
-+ **"Biscuits in Tea"**: Well, you can read more about the reasoning for it **[here]({{site.url}}/about)**.
++ **"Biscuits in Tea"**: Well, you can read more about the reasoning for it **[here]({{site.url}}/about){:target="_blank"}**.
 
 I sincerely hope you enjoy 'savouring' these biscuits, nay, anecdotes(or letters rather!) as much as I do [b/m]aking them!
 
