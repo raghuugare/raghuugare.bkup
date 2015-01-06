@@ -62,4 +62,3 @@ Many more articles to come showcasing the power & elegance of this classic progr
 [link_SBCL]: http://www.sbcl.org/ "A free implementation of ANSI Common LISP"
 [link_SICP]: http://mitpress.mit.edu/sicp/ "The SICP book (full text) -- free, online"
 [link_rags_SICP]: https://github.com/raghuugare/rags_SICP "My work on SICP..."
-
