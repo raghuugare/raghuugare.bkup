@@ -23,7 +23,12 @@ Hats off to the Printing/Publishing/Digital/Computer-Science fraternity for thei
 
 > &#9762; **Warning!** _Digression_ : Check out the 'mathematical & algorithmic' typography work by the father-son duo (and I would even say, 'math-art' duo) of [Erik Demaine][link_erik_demaine]{:target="_blank"} & [Martin Demaine][link_martin_demaine]{:target="_blank"} at [this site][link_erik_typography]{:target="_blank"}. You too might enjoy playing around with [the glass-'squishing' font][link_erik_glass_fonts]{:target="_blank"} there! Beautiful indeed!
 
-As for the web, we have [Markdown][link_markdown]{:target="_blank"} & [Textile][link_textile]{:target="_blank"}, two of the several light-weight mark-up languages.
+As for the web, we have some popular like the following: 
++ [Markdown][link_markdown]{:target="_blank"},
++ [Asciidoc][link_asciidoc]{:target="_blank"}, and
++ [Textile][link_textile]{:target="_blank"}. 
+
+two of the several light-weight mark-up languages.
 
 ## Playing with fonts on github pages
 
@@ -51,7 +56,7 @@ Optima has been one of my favourite fonts & I so badly wanted to try it.
 
 I then saved this change in `main.scss`, refresh the browser & proceeded to _drool over_ the resultant rendering on my local copy of the github pages site...
 
-**Ah! What a beautiful font!**
+**Ah! What a Beautiful font!**
 
 No wonder---the [Optima][link_Optima]{:target="_blank"} typeface was created by one of the most respected font-designers in the world, [Hermann Zapf][link_Hermann_Zapf]{:target="_blank"}, way back in 1952.(**!!** [^2])
 
@@ -150,6 +155,7 @@ Have a "**font**-astic" time !
 [link_LaTeX]: http://en.wikipedia.org/wiki/LaTeX
 [link_markdown]: http://en.wikipedia.org/wiki/Markdown
 [link_textile]: http://en.wikipedia.org/wiki/Textile_%28markup_language%29
+[link_asciidoc]: http://en.wikipedia.org/wiki/AsciiDoc
 [link_bézier_curves]: https://en.wikipedia.org/wiki/B%C3%A9zier_curve
 [link_erik_demaine]: http://en.wikipedia.org/wiki/Erik_Demaine
 [link_martin_demaine]: http://en.wikipedia.org/wiki/Martin_Demaine
