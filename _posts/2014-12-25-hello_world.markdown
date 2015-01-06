@@ -5,6 +5,14 @@ date:   2014-12-25 12:20:10
 categories: programming
 ---
 
+## Some Math equations?
+
+Here you go! (Solution of a Quadratic equation!)
+
+$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
+
+## Over to some code
+
 Here's a sample code snippet in C:
 
 {% highlight c %}
