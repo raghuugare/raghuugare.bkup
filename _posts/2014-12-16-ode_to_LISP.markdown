@@ -57,10 +57,9 @@ Many more articles to come showcasing the power & elegance of this classic progr
 [link_LISP]: http://en.wikipedia.org/wiki/Lisp_%28programming_language%29
 [link_Common_LISP]: http://en.wikipedia.org/wiki/Common_Lisp
 [link_Scheme]: http://en.wikipedia.org/wiki/Scheme_(programming_language)
-[link_EMACS]: http://www.gnu.org/software/emacs/
+[link_EMACS]: http://www.gnu.org/software/emacs/ "Emacs - the legendary editor! <3 :)"
 [slime_id]: http://common-lisp.net/project/slime/ "SLIME mode for Emacs"
-[link_SBCL]: http://www.sbcl.org/
-[link_SICP]:
-
-[link_rags_SICP]: 
+[link_SBCL]: http://www.sbcl.org/ "A free implementation of ANSI Common LISP"
+[link_SICP]: http://mitpress.mit.edu/sicp/ "The SICP book (full text) -- free, online"
+[link_rags_SICP]: https://github.com/raghuugare/rags_SICP "My work on SICP..."
 
