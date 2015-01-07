@@ -21,14 +21,20 @@ I marvel at how TeX especially, takes care of hundreds of tiny technical details
 
 Hats off to the Printing/Publishing/Digital/Computer-Science fraternity for their constant innovations! From hot-metal types in real foundries to digital type-faces manipulated with [Bézier curves][link_bézier_curves]{:target="_blank"} & mathematical wizardry, we have indeed come a long way. :)
 
-> &#9762; **Warning!** _Digression_ : Check out the 'mathematical & algorithmic' typography work by the father-son duo (and I would even say, 'math-art' duo) of [Erik Demaine][link_erik_demaine]{:target="_blank"} & [Martin Demaine][link_martin_demaine]{:target="_blank"} at [this site][link_erik_typography]{:target="_blank"}. You too might enjoy playing around with [the glass-'squishing' font][link_erik_glass_fonts]{:target="_blank"} there! Beautiful indeed!
+> &#9762; **WARNING!** _Digression_ : Check out the 'mathematical & algorithmic' typography work by the father-son duo (and I would even say, 'math-art' duo) of [Erik Demaine][link_erik_demaine]{:target="_blank"} & [Martin Demaine][link_martin_demaine]{:target="_blank"} at [this site][link_erik_typography]{:target="_blank"}. You too might enjoy playing around with [the glass-'squishing' font][link_erik_glass_fonts]{:target="_blank"} there! Beautiful indeed!
 
-As for the web, we have some popular like the following: 
+For the web, we have some popular light-weight markup languages like the following:
+
 + [Markdown][link_markdown]{:target="_blank"},
-+ [Asciidoc][link_asciidoc]{:target="_blank"}, and
-+ [Textile][link_textile]{:target="_blank"}. 
 
-two of the several light-weight mark-up languages.
++ [Asciidoc][link_asciidoc]{:target="_blank"}, and
+
++ [Textile][link_textile]{:target="_blank"}.
+
+#### What about Mathematical Equations?
+
+As for specialized Mathematical typesetting on the web, we have [MathJax][link_mathjax] for bringing equations like [Albert Einstein][link_Einstein]'s 
+\$ E=mc^{2} \$ or say, \$ ax^{2}+bx+c=0\$ to life!
 
 ## Playing with fonts on github pages
 
@@ -156,6 +162,8 @@ Have a "**font**-astic" time !
 [link_markdown]: http://en.wikipedia.org/wiki/Markdown
 [link_textile]: http://en.wikipedia.org/wiki/Textile_%28markup_language%29
 [link_asciidoc]: http://en.wikipedia.org/wiki/AsciiDoc
+[link_mathjax]: http://www.mathjax.org/
+[link_Einstein]: http://en.wikipedia.org/wiki/Albert_Einstein
 [link_bézier_curves]: https://en.wikipedia.org/wiki/B%C3%A9zier_curve
 [link_erik_demaine]: http://en.wikipedia.org/wiki/Erik_Demaine
 [link_martin_demaine]: http://en.wikipedia.org/wiki/Martin_Demaine
