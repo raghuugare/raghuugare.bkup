@@ -89,7 +89,7 @@ Have a wonder-filled time with your dear ones!
 
 **Love & Best Wishes,**
 
-![image_rags_uk]({{site.url}}/assets/images/rags_UK_small.jpg)
+![image_rags_now]({{site.url}}/assets/images/rags_now_small.png)
 
 Raghu Ugaré
 
