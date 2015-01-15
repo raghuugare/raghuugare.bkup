@@ -73,6 +73,32 @@ That is,
 
 This result is all the more startling, given the fact that [Prime numbers][link_Primes] are still considered to be among the most mysterious entities in the number-universe. And yet here was Ramanujan, conjuring a result like this almost out of thin air! (and verified to be true too.)
 
+---
+
+### Closing remarks
+
+The above examples are just a few among many such instances which exhibit Ramanujan’s amazing faculty with numbers.
+
+His passion and brilliance in Mathematics place him permanently in the ‘hall of fame’ along with other eccentric and prolific geniuses such as [Paul Erdős][link_Paul_Erdős], who dedicated their lives for the sole purpose of ruminating and working tirelessly on esoteric things that laymen dare not imagine.
+
+Indeed, it would be fitting to end this tiny _‘peek’_ into _the beautiful mind of Ramanujan_ with a quote that expresses his deep conviction and almost fanatic faith in the ‘Divine beauty’ of numbers and equations:
+
+> “An equation means nothing to me unless it expresses a thought of God.”
+>
+> :~ **Srinivasa Ramanujan**
+
+![s_ramanujan]({{site.url}}/assets/images/ramanujan/s_ramanujan.jpg)
+
+##### **Fig. 5.** Srinivasa Ramanujan(1887-1920)
+
+---
+
+#### Further reading
+
++ “[The Man Who Knew Infinity: A Life of the Genius Ramanujan][link_the_man_who_knew_infinity]”, a narrative biographical sketch by Robert Kanigel
++ “[Ramanujan’s Notebooks][link_Ramanujan_s_Notebooks]”—a series of volumes collecting and analysing Ramanujan’s body of work, by Bruce Berndt & George E. Andrews
++ "[The collected works of Ramanujan][link_collected_works_of_Ramanujan]" published online.
++ [The manuscripts of Ramanujan][link_manuscripts_of_Ramanujan], courtesy the University of Madras.
 
 
 [link_Primes]: http://en.wikipedia.org/wiki/Prime_number
