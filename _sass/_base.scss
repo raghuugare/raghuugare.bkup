@@ -110,7 +110,7 @@ a {
  */
 blockquote {
     color: #d2691e; // # $grey-color;
-    border-left: 6px solid $grey-color;
+    border-left: 6px solid #ff4500; // $grey-color; 
     padding-left: $spacing-unit / 2;
     font-family: $blockquote-font-family;
     font-style: $blockquote-font-style;
