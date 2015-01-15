@@ -36,7 +36,7 @@ And soon, I obtained my first "Hello World" by typing and 'evaulating' the follo
 
 ## A Beautiful, minimalist language...
 
-Among many things, I learnt that LISP is -- 
+Among many things, I learnt that LISP is --
 
 + simple
 + elegant
@@ -45,13 +45,13 @@ Among many things, I learnt that LISP is --
 
 LISP pioneered/introduced almost all of the various innovative features of the many popular dynamic programming languages in use today.
 
-**Note:** Well, this _'Hello',_ is just the tip of the proverbial iceberg or rather the 'ice-breaker' of our conversation about LISP. Sit tight & brace yourself, as we sail along uncharted territories, exploring some truly _ingenious_ ideas of **Functional Programming** in general & **LISP** in particular. 
+**Note:** Well, this _'Hello',_ is just the tip of the proverbial iceberg or rather the 'ice-breaker' of our conversation about LISP. Sit tight & brace yourself, as we sail along uncharted territories, exploring some truly _ingenious_ ideas of **Functional Programming** in general & **LISP** in particular.
 
 Many more articles to come showcasing the power & elegance of this classic programming language!
 
 ---
 
-+ Some work in Scheme, working through the legendary [SICP][link_SICP] is [here][link_rags_SICP]
+**Note:** Some work in Scheme, working through the legendary [SICP][link_SICP] is [here][link_rags_SICP]
 
 
 [link_LISP]: http://en.wikipedia.org/wiki/Lisp_%28programming_language%29
