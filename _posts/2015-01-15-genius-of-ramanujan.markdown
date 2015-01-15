@@ -81,7 +81,7 @@ The above examples are just a few among many such instances which exhibit Ramanu
 
 His passion and brilliance in Mathematics place him permanently in the ‘hall of fame’ along with other eccentric and prolific geniuses such as [Paul Erdős][link_Paul_Erdős], who dedicated their lives for the sole purpose of ruminating and working tirelessly on esoteric things that laymen dare not imagine.
 
-Indeed, it would be fitting to end this tiny _‘peek’_ into _the beautiful mind of Ramanujan_ with a quote that expresses his deep conviction and almost fanatic faith in the ‘Divine beauty’ of numbers and equations:
+Indeed, it would be fitting to end this tiny _‘peek’_ into the beautiful mind of Ramanujan with a quote that expresses his deep conviction and almost fanatic faith in the ‘Divine beauty’ of numbers and equations:
 
 > “An equation means nothing to me unless it expresses a thought of God.”
 >
