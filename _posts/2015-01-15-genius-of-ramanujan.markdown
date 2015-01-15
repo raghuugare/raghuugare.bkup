@@ -57,6 +57,23 @@ That is,
 
 Then, there was a question as to what the infinitely nested expression shown above would evaluate to, which Ramanujan showed to be equal to 3. (**Yes! Simply 3**)
 
+---
+
+### The astonishing Prime-product ratio 
+
+![prime_product_ratio_demo]({{site.url}}/assets/images/ramanujan/prime_product_ratio.png)
+
+##### **Fig. 4.** The amazing [Prime-product ratio of Ramanujan][link_prime_product_ratio_demo] of Ramanujan (Visualisation by @raghu_ugare using [Mathematica][link_Mathematica])
+
+Yet another result connects an infinite product of a specific ratio involving [Prime numbers][link_Primes] to an incredibly simple finite value(2.5, to be precise).
+
+That is,
+
+\[ \lim_ {n \rightarrow \infty} \prod_{i=1}^{n} \frac{p_i^{2}+1}{p_i^{2}-1} = 2.5 \]
+
+This result is all the more startling, given the fact that [Prime numbers][link_Primes] are still considered to be among the most mysterious entities in the number-universe. And yet here was Ramanujan, conjuring a result like this almost out of thin air! (and verified to be true too.)
+
+
 
 [link_Primes]: http://en.wikipedia.org/wiki/Prime_number
 [link_Mathematica]: http://www.wolfram.com/mathematica/
