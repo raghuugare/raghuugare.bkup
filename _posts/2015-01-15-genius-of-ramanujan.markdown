@@ -32,8 +32,17 @@ While in early high-school, the math teacher called up little Ramanujan and gave
 
 ##### **Fig. 1.** The simple-looking problem posed to young Ramanujan in school.
 
-The solution for this pair of equations is quite obvious \$ \Rightarrow (x = 9, y = 4) \$  but is tricky to arrive at (**If you disagree, please go ahead; give it a try!**). And it is said that Ramanujan came up with the solution in a jiffy, showing early signs of his prodigious gift.
+The solution for this pair of equations is quite obvious \$ \Rightarrow (x = 9, y = 4) \$  but is tricky to arrive at (**If you disagree, please go ahead; give it a try!**). And it is said that Ramanujan came up with the solution in a jiffy, showing early signs of his prodigious gifted.
 
+---
+
+### The mysterious equation 
+
+[\ 2^{n} - 7 = x^{2} :  n, x \in Z  \]
+
+##### **Fig. 2.** The little equation with a surprisingly small set of solutions ( `{ 3, 4, 5, 7, 15 }` )
+
+There was this simple equation(see Fig. 2. above) which Ramanujan solved, providing only a small set of solutions. Extensive experiments by mathematicians later verified that there exist no other solutions other than the ones suggested by Ramanujan.
 
 
 [link_Primes]: http://en.wikipedia.org/wiki/Prime_number
