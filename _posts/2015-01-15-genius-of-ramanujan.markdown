@@ -22,3 +22,17 @@ His life, tragically brief though it was, goes to prove the adage:
 
 Here, we consider a few samples of his work that are accessible (and hence inspiring?) to people who are familiar with basic high-school mathematics.
 
+
+
+
+
+[link_Primes]: http://en.wikipedia.org/wiki/Prime_number
+[link_Mathematica]: http://www.wolfram.com/mathematica/
+[link_G_H_Hardy]: http://en.wikipedia.org/wiki/G._H._Hardy
+[link_Ramanujan]: http://en.wikipedia.org/wiki/Srinivasa_Ramanujan
+[link_Paul_Erdős]: http://en.wikipedia.org/wiki/Paul_Erd%C5%91s
+[link_prime_product_ratio_demo]: http://demonstrations.wolfram.com/ThePrimeProductRatioOfRamanujan/
+[link_the_man_who_knew_infinity]: http://amzn.to/1kvSR7f
+[link_Ramanujan_s_Notebooks]: http://amzn.to/1gvxBZz
+[link_collected_works_of_Ramanujan]: http://ramanujan.sirinudi.org/
+[link_manuscripts_of_Ramanujan]: http://www.math.tifr.res.in/~publ/ramanujan.html
