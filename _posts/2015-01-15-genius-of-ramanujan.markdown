@@ -44,6 +44,19 @@ The solution for this pair of equations is quite obvious \$ \Rightarrow (x = 9, 
 
 There was this simple equation(see Fig. 2. above) which Ramanujan solved, providing only a small set of solutions. Extensive experiments by mathematicians later verified that there exist no other solutions other than the ones suggested by Ramanujan.
 
+---
+
+### The strange nested radical 
+
+![nested_radical]({{site.url}}/assets/images/ramanujan/nested_radical.png)
+
+##### **Fig. 3.** The strange, infinitely nested expression/radical whose value Ramanujan computed to be equal to 3 (Image by @raghu_ugare using [Mathematica][link_Mathematica])
+
+That is,
+[\ \lim_ {n \rightarrow \infty } \sqrt{1 + 2 \sqrt{1 + 3 \sqrt{1 + 4 \sqrt{1 + \ldots  (n-1)\sqrt{n}}}}} = 3 \]
+
+Then, there was a question as to what the infinitely nested expression shown above would evaluate to, which Ramanujan showed to be equal to 3. (**Yes! Simply 3**)
+
 
 [link_Primes]: http://en.wikipedia.org/wiki/Prime_number
 [link_Mathematica]: http://www.wolfram.com/mathematica/
