@@ -22,7 +22,17 @@ His life, tragically brief though it was, goes to prove the adage:
 
 Here, we consider a few samples of his work that are accessible (and hence inspiring?) to people who are familiar with basic high-school mathematics.
 
+---
 
+### The innocuous pair of equations
+
+While in early high-school, the math teacher called up little Ramanujan and gave him the following pair of equations to solve:
+
+![simultaenous_equations]({{site.url}}/assets/images/ramanujan/simultaneous_equations.jpg)
+
+##### **Fig. 1.** The simple-looking problem posed to young Ramanujan in school.
+
+The solution for this pair of equations is quite obvious \$ \Rightarrow (x = 9, y = 4) \$  but is tricky to arrive at (**If you disagree, please go ahead; give it a try!**). And it is said that Ramanujan came up with the solution in a jiffy, showing early signs of his prodigious gift.
 
 
 
