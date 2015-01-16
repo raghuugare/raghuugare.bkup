@@ -209,7 +209,7 @@
 .post-title {
     font-family: $title-font-family;
     font-style: normal;
-    font-size: 42px;
+    font-size: $title-font-size;
 
     color: $title-color;
     letter-spacing: -1px;
