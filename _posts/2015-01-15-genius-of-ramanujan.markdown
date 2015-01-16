@@ -38,7 +38,7 @@ The solution for this pair of equations is quite obvious \$ \Rightarrow (x = 9, 
 
 ### The mysterious equation
 
-[\ 2^{n} - 7 = x^{2} :  n, x \in Z  \]
+\\[ 2^{n} - 7 = x^{2} :  n, x \in Z  \\]
 
 ##### **Fig. 2.** The little equation with a surprisingly small set of solutions ( `{ 3, 4, 5, 7, 15 }` )
 
@@ -53,7 +53,7 @@ There was this simple equation(see Fig. 2. above) which Ramanujan solved, provid
 ##### **Fig. 3.** The strange, infinitely nested expression/radical whose value Ramanujan computed to be equal to 3 (Image by @raghu_ugare using [Mathematica][link_Mathematica])
 
 That is,
-[\ \lim_ {n \rightarrow \infty } \sqrt{1 + 2 \sqrt{1 + 3 \sqrt{1 + 4 \sqrt{1 + \ldots  (n-1)\sqrt{n}}}}} = 3 \]
+\\[ \lim_ {n \rightarrow \infty } \sqrt{1 + 2 \sqrt{1 + 3 \sqrt{1 + 4 \sqrt{1 + \ldots  (n-1)\sqrt{n}}}}} = 3 \\]
 
 Then, there was a question as to what the infinitely nested expression shown above would evaluate to, which Ramanujan showed to be equal to 3. (**Yes! Simply 3**)
 
@@ -69,7 +69,7 @@ Yet another result connects an infinite product of a specific ratio involving [P
 
 That is,
 
-\[ \lim_ {n \rightarrow \infty} \prod_{i=1}^{n} \frac{p_i^{2}+1}{p_i^{2}-1} = 2.5 \]
+\\[ \lim_ {n \rightarrow \infty} \prod_{i=1}^{n} \frac{p_i^{2}+1}{p_i^{2}-1} = 2.5 \\]
 
 This result is all the more startling, given the fact that [Prime numbers][link_Primes] are still considered to be among the most mysterious entities in the number-universe. And yet here was Ramanujan, conjuring a result like this almost out of thin air! (and verified to be true too.)
 
