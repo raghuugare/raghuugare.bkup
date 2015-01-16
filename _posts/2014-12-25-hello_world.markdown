@@ -11,7 +11,7 @@ Here you go!
 
 Solution of a Quadratic equation of the form: \$ ax^{2}+bx +c=0 \$
 
-\[ x = {-b \pm \sqrt{b^2-4ac} \over 2a} \]
+\\[ x = {-b \pm \sqrt{b^2-4ac} \over 2a} \\]
 
 ## Over to some code
 
