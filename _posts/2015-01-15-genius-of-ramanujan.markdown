@@ -36,7 +36,7 @@ The solution for this pair of equations is quite obvious \$ \Rightarrow (x = 9, 
 
 ---
 
-### The mysterious equation 
+### The mysterious equation
 
 [\ 2^{n} - 7 = x^{2} :  n, x \in Z  \]
 
@@ -46,7 +46,7 @@ There was this simple equation(see Fig. 2. above) which Ramanujan solved, provid
 
 ---
 
-### The strange nested radical 
+### The strange nested radical
 
 ![nested_radical]({{site.url}}/assets/images/ramanujan/nested_radical.png)
 
@@ -59,7 +59,7 @@ Then, there was a question as to what the infinitely nested expression shown abo
 
 ---
 
-### The astonishing Prime-product ratio 
+### The astonishing Prime-product ratio
 
 ![prime_product_ratio_demo]({{site.url}}/assets/images/ramanujan/prime_product_ratio.png)
 
@@ -83,7 +83,7 @@ His passion and brilliance in Mathematics place him permanently in the ‘hall o
 
 Indeed, it would be fitting to end this tiny _‘peek’_ into the beautiful mind of Ramanujan with a quote that expresses his deep conviction and almost fanatic faith in the ‘Divine beauty’ of numbers and equations:
 
-> “An equation means nothing to me unless it expresses a thought of God.”
+>  &#10077; An equation means nothing to me unless it expresses a thought of God.  &#10078;
 >
 > :~ **Srinivasa Ramanujan**
 
