@@ -18,8 +18,8 @@ Solution of a Quadratic equation of the form: \$ ax^{2}+bx +c=0 \$
 Here's a sample code snippet in C:
 
 {% highlight c %}
-    
-#include <sdtio.h>
+
+#include <stdio.h>
 
 /* A simple function definition... */
 int factorial(int n) {
@@ -45,9 +45,9 @@ Above is a simple C-program with a function to compute the `factorial` of a posi
 Below is a Java program to be saved in a file named `Greeter.java`
 
 {% highlight java %}
-    
+
 public class Greeter {
-    
+
     public String greet(String target) {
         return "Hello " + target + "! :)";
     }
