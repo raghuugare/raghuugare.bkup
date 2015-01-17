@@ -15,7 +15,7 @@ Other than meddling with different typefaces, with Serifs & without ('sans' [^1]
 
 I do all of this---in my effort to somehow produce _'intonations & emphasis'_ of speech in written text, using colors, fonts and their weights & styles as my tools.
 
-Some of my favourite programs (& books written about them) have been [Donald Knuth][link_donald_knuth]{:target="_blank"}'s [TeX][link_TeX]{:target="_blank"} typsetting system & [Leslie Lamport][link_leslie_lamport]{:target="_blank"}'s [LaTeX][link_LaTeX]{:target="_blank"} built upon TeX. 
+Some of my favourite programs (& books written about them) have been [Donald Knuth][link_donald_knuth]{:target="_blank"}'s [TeX][link_TeX]{:target="_blank"} typsetting system & [Leslie Lamport][link_leslie_lamport]{:target="_blank"}'s [LaTeX][link_LaTeX]{:target="_blank"} built upon TeX.
 
 I marvel at how TeX especially, takes care of hundreds of tiny technical details (such as _kerning, ligatures, breaking lines,_ etc.) that go into making text so readable & enjoyable. As Lamport puts it, these tools help authors turn mere **"typing into typography"**.
 
@@ -33,7 +33,7 @@ For the web, we have some popular light-weight markup languages like the followi
 
 #### What about Mathematical Equations?
 
-As for specialized Mathematical typesetting on the web, we have [MathJax][link_mathjax] for bringing equations like [Albert Einstein][link_Einstein]'s 
+As for specialized Mathematical typesetting on the web, we have [MathJax][link_mathjax] for bringing equations like [Albert Einstein][link_Einstein]'s
 \$ E=mc^{2} \$ or say, \$ ax^{2}+bx+c=0\$ to life!
 
 ## Playing with fonts on github pages
@@ -78,7 +78,7 @@ When I tried viewing the same pages on a Windows machine, I realized that Optima
 
 Also, another pet peeve of mine was that I wanted some other `"monospace"` font for the code-snippets in my blogs, over-riding the default [Courier][link_Courier]{:target="_blank"} family.
 
-Again, I hit a similar road-block here, when I was almost dancing with joy looking at the beautiful [Monaco][link_Monaco]{:target="_blank"} font used to render my code snipppets. 
+Again, I hit a similar road-block here, when I was almost dancing with joy looking at the beautiful [Monaco][link_Monaco]{:target="_blank"} font used to render my code snipppets.
 
 I soon realized that this 'simple' tweaking of `main.scss` was **not portable**.
 
@@ -98,7 +98,7 @@ Well, as the name itself tells, a 'web-font' [^3] is pretty much a web-asset tha
 
 [^3]: The term 'web-font' is much like 'web-service'---a 'service' accessible over the web. A 'web-font' is similarly a font-resource accessible over the web.
 
-The downside to this approach is the slightly larger load-time for our site (barely noticable if we manage to keep the number of font-assets to a minimum). 
+The downside to this approach is the slightly larger load-time for our site (barely noticable if we manage to keep the number of font-assets to a minimum).
 
 But the upside is that we get the same look in terms of typography everywhere, for ALL our readers! :)
 
@@ -106,7 +106,7 @@ But the upside is that we get the same look in terms of typography everywhere, f
 
 Soon, my search for a free web-font 'service' zeroed in on Adobe who I learnt, have been famously providing such a service called [Typekit][link_Typekit]{:target="_blank"} for quite long. Really loved some of their blog-series on various little-known minutiae related to fonts! But Typekit is a paid service, and I wondered if little tinkers like me could freely experiment with fonts somehow.
 
-I then came to know that Adobe had come up with exactly the kind of 'free, font-service' that I had in mind! 
+I then came to know that Adobe had come up with exactly the kind of 'free, font-service' that I had in mind!
 
 **Divine Providence ?! :)**
 
@@ -125,7 +125,7 @@ Long story short, I finally chose (for now at-least!) a set of fonts for the nor
 ## How ?
 
 In order to use the typeface **Lato**, I added the following `<script>` element in my `head.html` file:
-    
+
     <script src="//use.edgefonts.net/lato:n1,i1,n3,i3,n4,i4,n7,i7,n9,i9.js"></script>
 
 **Done! That's it!**
@@ -148,7 +148,7 @@ Have a "**font**-astic" time !
 
 [link_Optima]:  http://en.wikipedia.org/wiki/Optima
 [link_Courier]: http://en.wikipedia.org/wiki/Courier_%28typeface%29
-[link_Monaco]: http://en.wikipedia.org/wiki/Monaco_%28typeface%29 
+[link_Monaco]: http://en.wikipedia.org/wiki/Monaco_%28typeface%29
 [link_Hermann_Zapf]: http://en.wikipedia.org/wiki/Hermann_Zapf
 [link_adobe_edge_web_fonts]: https://edgewebfonts.adobe.com
 [link_Typekit]: https://typekit.com

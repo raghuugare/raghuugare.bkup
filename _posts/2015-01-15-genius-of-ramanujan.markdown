@@ -8,9 +8,9 @@ draft: true
 
 ### A glimpse of the great Indian mathe-magician’s work...
 
-History has seldom seen a person who was so passionate, unorthodox, as well as gifted in a field, as was [Srinivasa Ramanujan][link_Ramanujan], the self-taught Indian genius, who made several startling discoveries in the realm of Mathematics.
+History has seldom seen a person who was so passionate, unorthodox, as well as gifted in a field, as was [Srinivasa Ramanujan][link_Ramanujan]{:target="_blank"}, the self-taught Indian genius, who made several startling discoveries in the realm of Mathematics.
 
-Despite abject poverty and lack of formal training and encouragement, Ramanujan’s love for numbers never waned. And thanks to a chance encounter and ensuing collaboration with [G.H.Hardy][link_G_H_Hardy] of Cambridge, one of the most eminent mathematicians of the world, his hidden genius came to light.
+Despite abject poverty and lack of formal training and encouragement, Ramanujan’s love for numbers never waned. And thanks to a chance encounter and ensuing collaboration with [G.H.Hardy][link_G_H_Hardy]{:target="_blank"} of Cambridge, one of the most eminent mathematicians of the world, his hidden genius came to light.
 
 Ramanujan went on to make thousands of discoveries with the apparent ease of experiencing and recording a series of religious epiphanies by a mystic in a trance. The methods he followed are still shrouded in a veil of mystery, since he usually skipped the formal rigour (and hence made mistakes too sometimes) and relied more on leaps of intuition to arrive at sudden, surprising results.
 
@@ -50,7 +50,7 @@ There was this simple equation(see Fig. 2. above) which Ramanujan solved, provid
 
 ![nested_radical]({{site.url}}/assets/images/ramanujan/nested_radical.png)
 
-##### **Fig. 3.** The strange, infinitely nested expression/radical whose value Ramanujan computed to be equal to 3 (Image by @raghu_ugare using [Mathematica][link_Mathematica])
+##### **Fig. 3.** The strange, infinitely nested expression/radical whose value Ramanujan computed to be equal to 3 (Image by @raghu_ugare using [Mathematica][link_Mathematica]{:target="_blank"})
 
 That is,
 \\[ \lim_ {n \rightarrow \infty } \sqrt{1 + 2 \sqrt{1 + 3 \sqrt{1 + 4 \sqrt{1 + \ldots  (n-1)\sqrt{n}}}}} = 3 \\]
@@ -63,15 +63,15 @@ Then, there was a question as to what the infinitely nested expression shown abo
 
 ![prime_product_ratio_demo]({{site.url}}/assets/images/ramanujan/prime_product_ratio.png)
 
-##### **Fig. 4.** The amazing [Prime-product ratio of Ramanujan][link_prime_product_ratio_demo] of Ramanujan (Visualisation by @raghu_ugare using [Mathematica][link_Mathematica])
+##### **Fig. 4.** The amazing [Prime-product ratio of Ramanujan][link_prime_product_ratio_demo]{:target="_blank"} of Ramanujan (Visualisation by @raghu_ugare using [Mathematica][link_Mathematica]{:target="_blank"})
 
-Yet another result connects an infinite product of a specific ratio involving [Prime numbers][link_Primes] to an incredibly simple finite value(2.5, to be precise).
+Yet another result connects an infinite product of a specific ratio involving [Prime numbers][link_Primes]{:target="_blank"} to an incredibly simple finite value(2.5, to be precise).
 
 That is,
 
 \\[ \lim_ {n \rightarrow \infty} \prod_{i=1}^{n} \frac{p_i^{2}+1}{p_i^{2}-1} = 2.5 \\]
 
-This result is all the more startling, given the fact that [Prime numbers][link_Primes] are still considered to be among the most mysterious entities in the number-universe. And yet here was Ramanujan, conjuring a result like this almost out of thin air! (and verified to be true too.)
+This result is all the more startling, given the fact that [Prime numbers][link_Primes]{:target="_blank"} are still considered to be among the most mysterious entities in the number-universe. And yet here was Ramanujan, conjuring a result like this almost out of thin air! (and verified to be true too.)
 
 ---
 
@@ -79,7 +79,7 @@ This result is all the more startling, given the fact that [Prime numbers][link_
 
 The above examples are just a few among many such instances which exhibit Ramanujan’s amazing faculty with numbers.
 
-His passion and brilliance in Mathematics place him permanently in the ‘hall of fame’ along with other eccentric and prolific geniuses such as [Paul Erdős][link_Paul_Erdős], who dedicated their lives for the sole purpose of ruminating and working tirelessly on esoteric things that laymen dare not imagine.
+His passion and brilliance in Mathematics place him permanently in the ‘hall of fame’ along with other eccentric and prolific geniuses such as [Paul Erdős][link_Paul_Erdős]{:target="_blank"}, who dedicated their lives for the sole purpose of ruminating and working tirelessly on esoteric things that laymen dare not imagine.
 
 Indeed, it would be fitting to end this tiny _‘peek’_ into the beautiful mind of Ramanujan with a quote that expresses his deep conviction and almost fanatic faith in the ‘Divine beauty’ of numbers and equations:
 
@@ -95,10 +95,10 @@ Indeed, it would be fitting to end this tiny _‘peek’_ into the beautiful min
 
 #### Further reading
 
-+ “[The Man Who Knew Infinity: A Life of the Genius Ramanujan][link_the_man_who_knew_infinity]”, a narrative biographical sketch by Robert Kanigel
-+ “[Ramanujan’s Notebooks][link_Ramanujan_s_Notebooks]”—a series of volumes collecting and analysing Ramanujan’s body of work, by Bruce Berndt & George E. Andrews
-+ "[The collected works of Ramanujan][link_collected_works_of_Ramanujan]" published online.
-+ [The manuscripts of Ramanujan][link_manuscripts_of_Ramanujan], courtesy the University of Madras.
++ “[The Man Who Knew Infinity: A Life of the Genius Ramanujan][link_the_man_who_knew_infinity]{:target="_blank"}”, a narrative biographical sketch by Robert Kanigel
++ “[Ramanujan’s Notebooks][link_Ramanujan_s_Notebooks]{:target="_blank"}”—a series of volumes collecting and analysing Ramanujan’s body of work, by Bruce Berndt & George E. Andrews
++ "[The collected works of Ramanujan][link_collected_works_of_Ramanujan]{:target="_blank"}" published online.
++ "[The manuscripts of Ramanujan][link_manuscripts_of_Ramanujan]{:target="_blank"}", courtesy the University of Madras.
 
 
 [link_Primes]: http://en.wikipedia.org/wiki/Prime_number
