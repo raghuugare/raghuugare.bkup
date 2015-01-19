@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About . . .
-permalink: /about/
+title: Introduction . . .
+permalink: /intro/
 ---
 
 ## Hello! Tea, anyone ? &#9786;
