@@ -135,9 +135,9 @@ code {
     font-style: $code-font-style;
     font-weight: $code-font-weight;
     font-size: $code-font-size;
-    border: 1px solid $grey-color-light;
-    border-radius: 3px;
-    background-color: #eef;
+    border: 1px solid #009909; // $grey-color-light;
+    border-radius: 4px;
+    background-color: #f0f0f5; // #eef;
 }
 
 code {
