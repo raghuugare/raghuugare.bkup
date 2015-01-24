@@ -15,7 +15,7 @@ Other than meddling with different typefaces, with Serifs & without ('sans' [^1]
 
 I do all of this---in my effort to somehow produce _'intonations & emphasis'_ of speech in written text, using colors, fonts and their weights & styles as my tools.
 
-Some of my favourite programs (& books written about them) have been [Donald Knuth][link_donald_knuth]{:target="_blank"}'s [TeX][link_TeX]{:target="_blank"} typsetting system & [Leslie Lamport][link_leslie_lamport]{:target="_blank"}'s [LaTeX][link_LaTeX]{:target="_blank"} built upon TeX.
+Some of my favourite programs (& books written about them) have been [Donald Knuth][link_Don_Knuth]{:target="_blank"}'s [TeX][link_TeX]{:target="_blank"} typsetting system & [Leslie Lamport][link_leslie_lamport]{:target="_blank"}'s [LaTeX][link_LaTeX]{:target="_blank"} built upon TeX.
 
 I marvel at how TeX especially, takes care of hundreds of tiny technical details (such as _kerning, ligatures, breaking lines,_ etc.) that go into making text so readable & enjoyable. As Lamport puts it, these tools help authors turn mere **"typing into typography"**.
 
@@ -116,7 +116,9 @@ This gem of a service is called the **Adobe Edge Web Fonts**, and the collection
 
 As they say, Edge Web fonts is _'a library of fonts for your website'_ brought to us with contributions from Adobe, Google & many font-designers all over the world!
 
-**"Perfect!"**, I exclaimed, as I set about exploring the various permutations of fonts I could choose from the _delectable menu_ of over 500 fonts which were neatly classified as being _Serif, Slab Serif, Sans Serif, Monospace, Decorative_, etc.
+**"Perfect!"**, I exclaimed, as I set about exploring the various permutations of fonts I could choose from the _delectable menu_[^4] of over 500 fonts which were neatly classified as being _Serif, Slab Serif, Sans Serif, Monospace, Decorative_, etc.
+
+[^4]:> &#10077; I can't go to a restaurant and order food because I keep looking at the fonts on the menu. Five minutes later I realize that it's also talking about food. &#10078; -- [Donald Knuth][link_Don_Knuth], _"All Questions Answered"_
 
 ## Finally . . .
 
@@ -155,7 +157,7 @@ Have a "**font**-astic" time !
 [link_adobe_edge_web_fonts_help]: https://edgewebfonts.adobe.com/help
 [link_adobe]: http://www.adobe.com/
 [link_google]: http://www.google.com/
-[link_donald_knuth]: http://en.wikipedia.org/wiki/Donald_Knuth
+[link_Don_Knuth]: http://en.wikipedia.org/wiki/Donald_Knuth
 [link_TeX]: http://en.wikipedia.org/wiki/TeX
 [link_leslie_lamport]: http://en.wikipedia.org/wiki/Leslie_Lamport
 [link_LaTeX]: http://en.wikipedia.org/wiki/LaTeX
