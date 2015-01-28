@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome!"
+title:  "Welcome! A note from the (b | m)aker..."
 date:   2014-12-12 21:00:10
 categories: general
 ---
