@@ -14,7 +14,8 @@
     font-family: $site-font-family;
     font-style: normal;
     font-size: $site-font-size;
-    font-weight: $site-font-weight; 
+    font-weight: $site-font-weight;
+    font-color: $site-font-color; 
     line-height: 56px;
     letter-spacing: -1px;
     margin-bottom: 0;
@@ -171,7 +172,11 @@
 }
 
 .page-heading {
-    font-size: 20px;
+    // font-size: 20px;
+    font-family: $page-heading-font-family;
+    font-size: $page-heading-font-size;
+    font-weight: $page-heading-font-weight;
+    font-color: $page-heading-font-color; // $grey-color;
 }
 
 .post-list {

@@ -9,6 +9,7 @@
 $site-font-family: lato, Helvetica Neue, sans-serif;
 $site-font-size: 30px;
 $site-font-weight: 400;
+$site-font-color: #ffa0df;
 
 $blockquote-font-family: lato, sans-serif;
 $blockquote-font-style: normal;
@@ -28,6 +29,11 @@ $post-link-font-family: marmelad, lato, sans-serif;
 $post-link-font-weight: 400;
 $post-link-font-size: 24px;
 
+$page-heading-font-family: lato, Helvetica Neue, Helvetica, sans-serif;
+$page-heading-font-size:   28px;
+$page-heading-font-color:  #66cdaa;
+$page-heading-font-weight: 400;
+
 $body-font-weight: 300;
 
 // ===========================================
@@ -43,7 +49,7 @@ $base-line-height: 1.5;
 $spacing-unit:     30px;
 
 $text-color:       #111;
-$background-color: #fcfee5; // #f0fff0;(greenish) // #fdfdfd; // #faf5b8; // #fcead0; // #effcd0; // #e9fcba;
+$background-color: #fdfdfd; // #fcfee5; // #f0fff0;(greenish) // #fdfdfd; // #faf5b8; // #fcead0; // #effcd0; // #e9fcba;
 $brand-color:      #2a7ae2; // #6bd538;   
 
 $grey-color:       #828282;

@@ -118,7 +118,7 @@ As they say, Edge Web fonts is _'a library of fonts for your website'_ brought t
 
 **"Perfect!"**, I exclaimed, as I set about exploring the various permutations of fonts I could choose from the _delectable menu_[^4] of over 500 fonts which were neatly classified as being _Serif, Slab Serif, Sans Serif, Monospace, Decorative_, etc.
 
-[^4]:> &#10077; I can't go to a restaurant and order food because I keep looking at the fonts on the menu. Five minutes later I realize that it's also talking about food. &#10078; -- [Donald Knuth][link_Don_Knuth], _"All Questions Answered"_
+[^4]: &#10077; _I can't go to a restaurant and order food because I keep looking at the fonts on the menu. Five minutes later I realize that it's also talking about food._ &#10078; -- [Donald Knuth][link_Don_Knuth], _"All Questions Answered"_
 
 ## Finally . . .
 
