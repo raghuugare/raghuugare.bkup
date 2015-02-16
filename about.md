@@ -31,7 +31,7 @@ Just a tiny _cup o' tea_ makes me
 
 + ...feel a strange kind of WARMTH & BLiSS that is, to put it in my way, PRiCE-Le$$ ! :)
 
-> Get "LOST" in something; You will "FIND" (out) something beautiful ! :)
+> To "FIND" (out) Something beautiful, we need to get "LOST" sometimes! :)
 
 **Don't you agree ? :)**
 
