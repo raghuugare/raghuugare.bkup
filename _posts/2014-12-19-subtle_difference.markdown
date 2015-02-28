@@ -7,9 +7,10 @@ categories: LISP
 
 ---
 
-As I began my journey into the wonderful world of [LISP][link_LISP]{:target="_blank"}, and I started understanding the so-called **predicates**.[^1] 
+I recently began my long-awaiting journey(or a _pilgrimage_ to be honest!) into the wonderful world of [LISP][link_LISP]{:target="_blank"}. And along the path, I started understanding the so-called **predicates**.[^1]
 
-[^1]: Predicates (in LISP) are nothing but functions that answer Yes/No type of questions. By convention LISP predicate-names end in the letter **p** (stands for 'predicate'!) 
+
+[^1]: Predicates (in LISP) are nothing but functions that answer Yes/No type of questions. By convention LISP predicate-names end in the letter **p** (stands for 'predicate'!)
 
 I also began to learn about the predicates that are built-in, such as `oddp`, `evenp`, `atomp`, etc.
 
@@ -23,13 +24,13 @@ Beginning LISPers are bound to be a bit confused by the existence of the predica
 
 Seems so, but it is not the case.
 
-### So, are consp & listp _not_ the same? 
+### So, are consp & listp _not_ the same?
 
 Short answer : They are _not_ the same. There's a subtle difference due to one chief exception.
 
 Note that `NIL` is a list, also denoted by `()`. But it is  _not_ a cons-cell.
 
-**There! I'm done!** 
+**There! I'm done!**
 
 I hope you 'got' the _subtle_ difference between `consp` & `listp` predicates in LISP.
 
@@ -55,7 +56,7 @@ _Output:_ `T`
 
 ## Q & A
 
---- 
+---
 
 **What is a cons-cell?**
 
