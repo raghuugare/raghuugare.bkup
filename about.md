@@ -8,8 +8,12 @@ permalink: /intro/
 
 ## ![icon_kettle]({{site.url}}/assets/icons/rags_icon_128_by_128_kettle.png) ---> ![icon_cup]({{site.url}}/assets/icons/rags_icon_128_by_128_cup.png)
 
-This has been **brewing** in _the kettle of my heart/mind_ since long.
-The time has finally come to _**serve**_ [^1] it!
+Well, well, well!
+
+This has been **brewing** in _the kettle of my heart/mind_ since long...
+
+
+And the time has finally come to _**serve**_ [^1] it!
 
 [^1]: _"serve"_ on the web, of course! :)
 
