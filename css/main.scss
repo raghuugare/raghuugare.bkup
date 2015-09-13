@@ -16,16 +16,16 @@ $blockquote-font-style: normal;
 $blockquote-font-size: 24px;
 $blockquote-font-weight: 300;
 
-$code-font-family: anonymous-pro,  monospace;
+$code-font-family: anonymous-pro, monospace;
 $code-font-style: normal;
 $code-font-weight: 400; 
 $code-font-size:  15px;
 
-$title-font-family: ubuntu, marmelad, lato, sans-serif;
+$title-font-family: marmelad, ubuntu, lato, sans-serif;
 $title-font-color: #ffa00f; // #ffaa00; // #fa8221;
 $title-font-size: 40px;
 
-$post-link-font-family: ubuntu, marmelad, lato, sans-serif;
+$post-link-font-family: marmelad, ubuntu, lato, sans-serif;
 $post-link-font-weight: 400;
 $post-link-font-size: 24px;
 
@@ -41,8 +41,8 @@ $body-font-weight: 300;
 // Our variables
 // Some nice fonts (albeit available locally! :-( ) : Optima, Seravek, Avenir, ...
 
-$base-font-family: Source Sans Pro, Roboto Slab, merriweather, lato, Helvetica Neue, Helvetica, Arial, sans-serif;
-$base-font-size:   20px;
+$base-font-family:  Roboto Slab, Source Sans Pro, merriweather, lato, Helvetica Neue, Helvetica, Arial, sans-serif;
+$base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
