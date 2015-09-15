@@ -15,13 +15,13 @@ Despite abject poverty and lack of formal training and encouragement, Ramanujan�
 
 Ramanujan went on to make thousands of discoveries with the apparent ease of experiencing and recording a series of religious epiphanies by a mystic in a trance. The methods he followed are still shrouded in a veil of mystery, since he usually skipped the formal rigour (and hence made mistakes too sometimes) and relied more on leaps of intuition to arrive at sudden, surprising results.
 
-The several ‘Notebooks’ left behind by Ramanujan are strewn with cryptic formulae and equations, and are still being mined by mathematicians all over the world for beautiful gems and nuggets.
+The several ‘Notebooks’ left behind by Ramanujan are strewn with cryptic formulae and equations, and are still being _'mined'_ by mathematicians all over the world for beautiful gems and nuggets.
 
 His life, tragically brief though it was, goes to prove the adage:
 
 > TALENT does what it CAN, but **GENIUS** does what it MUST.
 
-Here, we consider a few samples of his work that are accessible (and hence inspiring?) to people who are familiar with basic high-school mathematics.
+Here, we consider a few samples of his work that are accessible _(and hence inspiring too?)_ to people who are familiar with basic high-school mathematics.
 
 ---
 
