@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Genius of Ramanujan"
-date:   2015-04-15 12:21:00
+date:   2015-09-15 12:21:00
 categories: math
 draft: false
 
