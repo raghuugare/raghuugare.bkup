@@ -15,7 +15,7 @@ For example, \$0\$ is a fixed-point of the function \$sin()\$, since \$sin(0)=0\
 
 Starting with this simple definition, I was shown some amazing piece of programming by [Prof. Gerald Jay Sussman][link_prof_Sussman]{:target="_blank"} in the legendary [SICP][link_SICP]{:target="_blank"} course (`lecture-2A` to be specific).
 
-Inspired by his talk, I quickly scribbled the following piece of code _verbatim_ in my [Dr.Racket][link_dr_racket]{:target="_blank"} environment.
+Inspired by the lecture, I quickly scribbled the following piece of code _verbatim_ in my [Dr.Racket][link_dr_racket]{:target="_blank"} environment.
 
 And **lo & behold!**
 
