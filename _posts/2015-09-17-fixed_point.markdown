@@ -32,7 +32,7 @@ Hat-tip to both!
 ;; Fixed point of a function 'f' about a point 'start'...
 ;;
 ;; Author: Raghu Ugaré
-;; Courtesy: the great teacher/author-s of SICP! <3 :)
+;; Courtesy: the great teachers of SICP! <3 :)
 ;; ------------------------------------------------------
 
 (define (fixed-point f start)
