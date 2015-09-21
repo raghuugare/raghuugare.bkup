@@ -36,7 +36,7 @@ Hat-tip to both!
 ;; ------------------------------------------------------
 
 (define (fixed-point f start)
-  ;; t = tolerance
+  ;; t = tolerance, which determines the error in our calculation
   (define t 0.000001)
 
   (define (iter old new)
