@@ -74,7 +74,7 @@ Which reminds me of the adage:
 
 >  &#10077; The ONLY constant in Life, is CHANGE. &#10078;
 
-Happy Learning & Exploring ! :~)
+Happy Learning & Exploring with SICP ! :~)
 
 [link_dr_racket]:[http://docs.racket-lang.org/drracket/]
 [link_fixed_point_definition]:[https://en.wikipedia.org/wiki/Fixed_point_(mathematics)]
