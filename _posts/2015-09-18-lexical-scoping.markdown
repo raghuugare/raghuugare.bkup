@@ -10,4 +10,4 @@ draft: true
 # Lexical Scoping in Scheme
 
 
-Write about the historical context, & how Scheme implemented _'Lexical Scoping'_, borrowing this idea from ALGOL
+A bit of history, about how Scheme implemented _'Lexical Scoping'_, borrowing the idea from ALGOL
