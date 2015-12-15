@@ -3,7 +3,7 @@ layout: post
 title:  "Lexical Scoping -- first class"
 date:   2015-09-18 12:21:21
 categories: programming
-draft: false
+draft: true
 
 ---
 
