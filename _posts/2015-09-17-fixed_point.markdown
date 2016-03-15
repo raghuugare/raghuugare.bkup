@@ -3,11 +3,11 @@ layout: post
 title:  "A small point about 'Fixed Point'..."
 date:   2015-09-17 12:21:21
 categories: programming
-draft: true
+draft: false
 
 ---
 
-## Fixed-point ? 
+## Fixed-point ?
 
 The [fixed-point of a function][link_fixed_point_definition]{:target="_blank"} \$f(x)\$ is a value \$`x'\$ such that the equation \$f(x) = x\$ is true.
 
@@ -21,7 +21,7 @@ And **lo & behold!**
 
 The program I wrote JUST WORKED the first time itself!
 
-Truly a testament to great teaching, and also to a great programming language (LISP that is--Scheme being a clean lit'l dialect of it :-) ). 
+Truly a testament to great teaching, and also to a great programming language (LISP that is--Scheme being a clean lit'l dialect of it :-) ).
 
 Hat-tip to both!
 
