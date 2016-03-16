@@ -3,13 +3,13 @@ layout: post
 title:  "A small point about 'Fixed Point'..."
 date:   2015-09-17 12:21:21
 categories: programming
-draft: false
+draft: true
 
 ---
 
 ## Fixed-point ?
 
-The [fixed-point of a function][link_fixed_point_definition]{:target="_blank"} \$f(x)\$ is a value \$`x'\$ such that the equation \$f(x) = x\$ is true.
+The [fixed-point of a function][link_fixed_point_definition]{:target="_blank"} \$f(x)\$ is a value \$x\$ such that the equation \$f(x) = x\$ is true.
 
 For example, \$0\$ is a fixed-point of the function \$sin()\$, since \$sin(0)=0\$.
 
