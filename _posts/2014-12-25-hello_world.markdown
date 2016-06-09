@@ -80,6 +80,6 @@ Here's a tiny Haskell gem...
 factorial :: Int -> Int
 factorial n
     | n <= 0 = 1
-    | n * factrial (n-1)
+    | n * factorial (n-1)
 
 ```
