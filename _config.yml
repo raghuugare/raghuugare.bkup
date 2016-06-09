@@ -12,5 +12,8 @@ twitter_username: raghu_ugare
 github_username:  raghuugare
 
 # Build settings
-markdown: kramdown
-highlighter: pygments
+# markdown: kramdown
+highlighter: rouge
+#kramdown:
+    #input: GFM
+    #syntax_highlighter: rouge
