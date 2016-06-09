@@ -71,9 +71,9 @@ Now, we show a simple LISP function to print the same. The function used is `for
 ;; ~% stands for our ubiquitous "\n" (newline) character...
 ```
 
-## A Haskell function to find the factorial of a number
+## And now, how about some Haskell ?
 
-Here's a tiny Haskell gem...
+Here's a tiny gem for finding the factorial of an integer `n` :
 
 ``` haskell
 
