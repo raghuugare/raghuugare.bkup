@@ -79,7 +79,7 @@ Here's a tiny Haskell gem...
 
 factorial :: Int -> Int
 factorial n
-| n <= 0 = 1
-| foldr (1) [1..n]
+    | n <= 0 = 1
+    | n * factrial (n-1)
 
 ```
