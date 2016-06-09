@@ -3,7 +3,7 @@ layout: post
 title:  "Hello World!"
 date:   2014-12-25 12:20:10
 categories: programming
-draft: true
+draft: false
 
 ---
 
@@ -19,8 +19,7 @@ Solution of a Quadratic equation of the form: \$ ax^{2}+bx +c=0 \$
 
 Here's a sample code snippet in C:
 
-{% highlight c %}
-
+``` c
 #include <stdio.h>
 
 /* A simple function definition... */
@@ -38,7 +37,7 @@ int main() {
     return 0;
 }
 
-{% endhighlight %}
+```
 
 Above is a simple C-program with a function to compute the `factorial` of a positive integer _defined & exercised_.
 
@@ -46,8 +45,7 @@ Above is a simple C-program with a function to compute the `factorial` of a posi
 
 Below is a Java program to be saved in a file named `Greeter.java`
 
-{% highlight java %}
-
+``` java
 public class Greeter {
 
     public String greet(String target) {
@@ -62,15 +60,13 @@ public class Greeter {
 
 }
 
-{% endhighlight %}
+```
 
 ## A Lisp program/function...
 
 Now, we show a simple LISP function to print the same. The function used is `format`.
 
-{% highlight lisp %}
-
+``` common-lisp
 (format t "Hello World ! :) ~%")
 ;; ~% stands for our ubiquitous "\n" (newline) character...
-
-{% endhighlight %}
+```
