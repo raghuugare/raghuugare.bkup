@@ -12,7 +12,7 @@ twitter_username: raghu_ugare
 github_username:  raghuugare
 
 # Build settings
-# markdown: kramdown
+markdown: kramdown
 highlighter: rouge
 #kramdown:
     #input: GFM
