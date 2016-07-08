@@ -83,3 +83,13 @@ factorial n
     | otherwise = n * factorial (n-1)
 
 ```
+
+``` tex
+
+``Computers are useless--they can only give you answers.'' -- Pablo Picasso
+
+Consider the following equation:
+
+$ x + y = z $
+
+```
