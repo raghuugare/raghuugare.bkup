@@ -1,9 +1,9 @@
 ---
-layout: post
-title:  "The Joy of Emacs"
-date:   2016-07-09 00:49:21
-categories: programming
-draft: false
+layout		: post
+title		: "Joy of Emacs"
+date		:  2016-07-09 00:49:21
+categories	: programming
+draft		: false
 
 ---
 
@@ -24,4 +24,5 @@ Hope you like this ??
 Please let me know...
 
 Thanks & Best wishes,
+
 'raghu'
