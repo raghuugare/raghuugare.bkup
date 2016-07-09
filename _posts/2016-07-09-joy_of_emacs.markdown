@@ -1,7 +1,8 @@
 ---
+
 layout		: post
 title		: "Joy of Emacs"
-date		:  2016-07-09 00:49:21
+date		: 2016-07-09 00:49:21
 categories	: programming
 draft		: false
 
