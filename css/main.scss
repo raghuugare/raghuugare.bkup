@@ -8,7 +8,7 @@
 
 // Alegreya Sans, Dosis, Harmattan, Inconsolata, PT Sans, Poppins
 
-$site-font-family: Roboto slab, lato, Helvetica Neue, sans-serif;
+$site-font-family: Dosis, Roboto slab, lato, Helvetica Neue, sans-serif;
 $site-font-size: 30px;
 $site-font-weight: 400;
 $site-font-color: #ffa0df;
@@ -18,7 +18,7 @@ $blockquote-font-style: normal;
 $blockquote-font-size: 24px;
 $blockquote-font-weight: 300;
 
-$code-font-family: anonymous-pro, monospace;
+$code-font-family: inconsolata, anonymous-pro, monospace;
 $code-font-style: normal;
 $code-font-weight: 400; 
 $code-font-size:  15px;
@@ -43,7 +43,7 @@ $body-font-weight: 300;
 // Our variables
 // Some nice fonts (albeit available locally! :-( ) : Optima, Seravek, Avenir, ...
 
-$base-font-family: Lato, Alegreya Sans, Merriweather, Roboto Slab, Source Sans Pro, Lato, Helvetica Neue, Helvetica, Arial, Sans-serif;
+$base-font-family: Merriweather, Roboto Slab, Source Sans Pro, Lato, Helvetica Neue, Helvetica, Arial, Sans-serif;
 $base-font-size:   15px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
