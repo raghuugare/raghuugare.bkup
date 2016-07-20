@@ -6,12 +6,14 @@
 // ===========================================
 // My variables
 
+// Alegreya Sans, Dosis, Harmattan, Inconsolata, PT Sans, Poppins
+
 $site-font-family: Roboto slab, lato, Helvetica Neue, sans-serif;
 $site-font-size: 30px;
 $site-font-weight: 400;
 $site-font-color: #ffa0df;
 
-$blockquote-font-family: lato, sans-serif;
+$blockquote-font-family: Alegreya Sans, lato, sans-serif;
 $blockquote-font-style: normal;
 $blockquote-font-size: 24px;
 $blockquote-font-weight: 300;
@@ -21,15 +23,15 @@ $code-font-style: normal;
 $code-font-weight: 400; 
 $code-font-size:  15px;
 
-$title-font-family: marmelad, ubuntu, lato, sans-serif;
+$title-font-family: dosis, marmelad, ubuntu, lato, sans-serif;
 $title-font-color: #ffa00f; // #ffaa00; // #fa8221;
 $title-font-size: 40px;
 
-$post-link-font-family: marmelad, ubuntu, lato, sans-serif;
+$post-link-font-family: dosis, marmelad, ubuntu, lato, sans-serif;
 $post-link-font-weight: 400;
 $post-link-font-size: 24px;
 
-$page-heading-font-family: Roboto slab, lato, Helvetica Neue, Helvetica, sans-serif;
+$page-heading-font-family: Alegreya Sans, Roboto slab, lato, Helvetica Neue, Helvetica, sans-serif;
 $page-heading-font-size:   28px;
 $page-heading-font-color:  #66cdaa;
 $page-heading-font-weight: 400;
@@ -41,7 +43,7 @@ $body-font-weight: 300;
 // Our variables
 // Some nice fonts (albeit available locally! :-( ) : Optima, Seravek, Avenir, ...
 
-$base-font-family:  Merriweather, Roboto Slab, Source Sans Pro, Lato, Helvetica Neue, Helvetica, Arial, Sans-serif;
+$base-font-family:  Harmattan, Merriweather, Roboto Slab, Source Sans Pro, Lato, Helvetica Neue, Helvetica, Arial, Sans-serif;
 $base-font-size:   15px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
