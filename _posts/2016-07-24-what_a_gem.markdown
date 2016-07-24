@@ -1,0 +1,33 @@
+---
+
+layout		: post
+title		: "What a Gem!"
+date		: 2016-07-24 00:49:21
+categories	: poetry
+draft		: false
+
+---
+
+Here's an _inspiring-yet-poignant_ poem by one of the greatest poets of [Kannada](https://en.wikipedia.org/wiki/Kannada), [Kuvempu](https://en.wikipedia.org/wiki/Kuvempu) which falls under the genre of "Bhaava-geethe"(ಭಾವ ಗೀತೆ) taken _verbatim_, translates to "Feeling-Song".
+
+Heart-felt thanks to my dear friend [Vijay](https://vijayanant.wordpress.com) who introduced me to this inadvertently (or perhaps by design?), while playing his choicest songs on his laptop.
+
+ತನುವು ನಿನ್ನದು, ಮನವು ನಿನ್ನದು
+====
+
+	ತನುವು ನಿನ್ನದು, ಮನವು ನಿನ್ನದು,
+	ಎನ್ನ ಜೀವನ ಧನವು ನಿನ್ನದು!
+	ನಾನು ನಿನ್ನವನೆ೦ಬ ಹೆಮ್ಮೆಯ,
+	ಋಣವು ಮಾತ್ರವೆ ನನ್ನದು !!
+    
+	ನೀನು ಹೊಳೆದರೆ ನಾನು ಹೊಳೆವೆನು,
+	ನೀನು ಬೆಳೆದರೆ ನಾನು ಬೆಳೆವೆನು,
+	ನನ್ನ ಹರಣದ ಹರಣ ನೀನು,
+	ನನ್ನ ಮರಣದ ಮರಣ ನೀನು !!
+	
+	ನನ್ನ ಮನದಲಿ ನೀನೆ ಯುಕ್ತಿ,
+	ನನ್ನ ಹೃದಯದಿ ನೀನೆ ಭಕ್ತಿ,
+	ನೀನೆ ಮಾಯಾ ಮೋಹ ಶಕ್ತಿಯು,
+	ನನ್ನ ಜೀವನ ಮುಕ್ತಿಯು !!
+	
+:~ **ಕುವೆ೦ಪು**
