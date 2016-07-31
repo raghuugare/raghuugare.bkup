@@ -21,7 +21,9 @@ I see MANY things pioneered in Emacs (as well as Vi & its clones like Vim) resur
 
 As part of my exercise of finally grokking the Emacs system & coming up with my own configuration based on inspirations from several 'gurus', I've started a repo on Github called [_rags\_dot\_emacs_](https://github.com/raghuugare/rags_dot_emacs). In it, I'm trying to come up with a decent (& as far as possible, 'recent' as well! ;-)) Emacs configuration to help explore my interests of Haskell, LISP, TeX & LaTeX, Markdown, etc.
 
-Emacs has simply blown my mind in terms of its extensibility--right from choosing to type in other languages like (Hindi) हिन्दी or Kannada (ಕನ್ನಡ), to giving me nifty packages for efficiency while working with HTML, CSS, or other language types. 
+Emacs has simply blown my mind in terms of its extensibility--right from choosing to type in other languages like (Hindi) हिन्दी or Kannada (ಕನ್ನಡ), to giving me nifty packages for efficiency while working with HTML, CSS, or other language types.
+
+In fact, Emacs, being based on its own dialect of LISP (Emacs LISP or Elisp for short) is one of the Best Gateways to LISP-dom! :)
 
 Hope you like this! 😊
 
