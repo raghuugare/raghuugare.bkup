@@ -3,7 +3,7 @@ layout: post
 title:  "A small point about 'Fixed Point'..."
 date:   2015-09-17 12:21:21
 categories: programming
-draft: true
+draft: false
 
 ---
 
@@ -11,11 +11,11 @@ draft: true
 
 The [fixed-point of a function][link_fixed_point_definition]{:target="_blank"} \$f(x)\$ is a value \$x\$ such that the equation \$f(x) = x\$ is true.
 
-For example, \$0\$ is a fixed-point of the function \$sin()\$, since \$sin(0)=0\$.
+For example, \$0\$ is a fixed-point of the familiar trigonometric function \$sin\$, since \$sin(0)=0\$.
 
 Starting with this simple definition, I was shown some amazing piece of programming by [Prof. Gerald Jay Sussman][link_prof_Sussman]{:target="_blank"} in the legendary [SICP][link_SICP]{:target="_blank"} course (`lecture-2A` to be specific).
 
-Inspired by the lecture, I quickly scribbled the following piece of code _verbatim_ in my [Dr.Racket][link_dr_racket]{:target="_blank"} environment.
+Inspired by the lecture, I quickly scribbled the following piece of code _verbatim_ in my [Scheme][link_scheme]{:target="_blank"} environment.
 
 And **lo & behold!**
 
@@ -23,11 +23,11 @@ The program I wrote JUST WORKED the first time itself!
 
 Truly a testament to great teaching, and also to a great programming language (LISP that is--Scheme being a clean lit'l dialect of it :-) ).
 
-Hat-tip to both!
+Hat-tip to both! &hearts; :-)
 
 ## Over to the code...
 
-{% highlight scheme %}
+``` scheme
 
 ;; Fixed point of a function 'f' about a point 'start'...
 ;;
@@ -36,7 +36,7 @@ Hat-tip to both!
 ;; ------------------------------------------------------
 
 (define (fixed-point f start)
-  ;; t = tolerance, which determines the error in our calculation
+  ;; t = tolerance, which determines the maximum permissible error in our calculation
   (define t 0.000001)
 
   (define (iter old new)
@@ -49,11 +49,11 @@ Hat-tip to both!
 
   (iter start (f start)))
 
-{% endhighlight %}
+```
 
 And then I tested it with the following calls to my `fixed-point` function:
 
-{% highlight scheme %}
+``` scheme
 
 ;; ================================================
 ;; Some tests below for our Fixed-point function...
@@ -63,7 +63,7 @@ And then I tested it with the following calls to my `fixed-point` function:
 (fixed-point sin 0) ;; Gives 0
 (fixed-point sin 1) ;; Gives 0.018169909847253
 
-{% endhighlight %}
+```
 
 ## The point?
 
@@ -76,7 +76,7 @@ Which reminds me of the adage:
 
 Happy Learning & Exploring with SICP ! :~)
 
-[link_dr_racket]:[http://docs.racket-lang.org/drracket/]
+[link_scheme]:[https://en.wikipedia.org/wiki/Scheme_(programming_language)]
 [link_fixed_point_definition]:[https://en.wikipedia.org/wiki/Fixed_point_(mathematics)]
 [link_prof_Sussman]:[https://en.wikipedia.org/wiki/Gerald_Jay_Sussman]
 [link_SICP]:[https://mitpress.mit.edu/sicp/]
