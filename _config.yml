@@ -1,4 +1,5 @@
 # Site settings
+# ==================================================================
 title: Biscuits in Tea &#9832; &hearts; &#9775; &#9786;...&#9997;
 email: raghu.ugare@gmail.com
 author: Raghu Ugaré
@@ -12,8 +13,6 @@ twitter_username: raghu_ugare
 github_username:  raghuugare
 
 # Build settings
+# ==================================================================
 markdown: kramdown
 highlighter: rouge
-#kramdown:
-    #input: GFM
-    #syntax_highlighter: rouge
