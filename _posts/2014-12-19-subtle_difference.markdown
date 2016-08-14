@@ -36,7 +36,7 @@ I hope you 'got' the _subtle_ difference between `consp` & `listp` predicates in
 
 It should now be clear what the following code snippets produce:
 
-``` lisp
+``` common-lisp
 
 (consp NIL)
 
@@ -46,7 +46,7 @@ _Output:_  `NIL`
 
 where as,
 
-``` lisp
+``` common-lisp
 
 (listp NIL)
 
