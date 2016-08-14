@@ -24,12 +24,12 @@ First, I made sure I had the following things sorted out:
 
 And soon, I obtained my first "Hello World" by typing and 'evaulating' the following function at the REPL prompt:
 
-{% highlight LISP %}
+``` common-lisp
 
 (format t "Hello World ! :) ~%")
 ;; ~% stands for our ubiquitous "\n" (newline) character...
 
-{% endhighlight %}
+```
 
 #### Output
 	Hello World ! :)
