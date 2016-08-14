@@ -36,20 +36,22 @@ I hope you 'got' the _subtle_ difference between `consp` & `listp` predicates in
 
 It should now be clear what the following code snippets produce:
 
-{% highlight LISP %}
+``` lisp
 
 (consp NIL)
 
-{% endhighlight %}
+```
+
 _Output:_  `NIL`
 
 where as,
 
-{% highlight LISP %}
+``` lisp
 
 (listp NIL)
 
-{% endhighlight %}
+```
+
 _Output:_ `T`
 
 ---
@@ -62,12 +64,12 @@ _Output:_ `T`
 
 A _cons-cell_, in Java-parlance, is like the node struct/class of a linked-list. Like so,
 
-{% highlight java %}
+``` java
 class Node<T> {
     T data;
     Node next;
 }
-{% endhighlight %}
+```
 
 Note that the `data` field above is also a pointer/reference to some location in memory, just like `next` points to the 'next' node of the list. Thus a _cons-cell_ is essentially a pair of pointers used to represent lists in LISP. In a singly-linked-list the last node has `next` set to `null`.
 
