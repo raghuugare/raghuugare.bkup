@@ -86,7 +86,12 @@ Good observation! You will understand this when you learn the basics of LISP.
 
 ---
 
+**Update**: Thanks to Jean-PhilippeParadis of [Hexstreamsoft][link_hexstream] for pointing out another observation of the fact `NIL` behaves sometimes like an empty cons-cell too, in that both `(car NIL)` and `(cdr NIL)` return `NIL` just like it happens if you had used `(car ())` and `(cdr ())`. Try it out!
+
+---
+
 ### Footnotes
 
 [link_cons_cell]: http://c2.com/cgi/wiki?ConsCell
 [link_LISP]: http://en.wikipedia.org/wiki/Lisp_%28programming_language%29
+[link_hexstream]: https://www.hexstreamsoft.com
