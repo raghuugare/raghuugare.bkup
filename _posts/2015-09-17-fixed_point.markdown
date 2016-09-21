@@ -76,7 +76,7 @@ Which reminds me of the adage:
 
 Happy Learning & Exploring with SICP ! :~)
 
-[link_scheme]:[https://en.wikipedia.org/wiki/Scheme_(programming_language)]
-[link_fixed_point_definition]:[https://en.wikipedia.org/wiki/Fixed_point_(mathematics)]
-[link_prof_Sussman]:[https://en.wikipedia.org/wiki/Gerald_Jay_Sussman]
-[link_SICP]:[https://mitpress.mit.edu/sicp/]
+[link_scheme]: https://en.wikipedia.org/wiki/Scheme_(programming_language)
+[link_fixed_point_definition]: https://en.wikipedia.org/wiki/Fixed_point_(mathematics)
+[link_prof_Sussman]: https://en.wikipedia.org/wiki/Gerald_Jay_Sussman
+[link_SICP]: https://mitpress.mit.edu/sicp/
