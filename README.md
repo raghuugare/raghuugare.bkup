@@ -1,10 +1,7 @@
 raghuugare.github.io
 ====================
 
-"rags" over riches...miscellaneous nuggets...
+"rags" over riches...
 
-Importing some articles from my Medium collection, & other Blogs.
+This is my eclectic collection of miscellaneous nuggets. Ranging from programming to philosophy, from art to math, from poetry to physics...
 
-Has been dormant for a while.
-
-But it's time to RISE Again! :-)
