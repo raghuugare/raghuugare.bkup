@@ -4,11 +4,11 @@ layout		: post
 title		: "What a Gem!"
 date		: 2016-07-24 00:49:21
 categories	: poetry
-draft		: true
+draft		: false
 
 ---
 
-Here's an _inspiring-yet-poignant_ poem by one of the greatest poets of [Kannada](https://en.wikipedia.org/wiki/Kannada), [Kuvempu](https://en.wikipedia.org/wiki/Kuvempu) which falls under the genre of "Bhaava-geethe"(ಭಾವ ಗೀತೆ) taken _verbatim_, translates to "Feeling-Song".
+Here's an _inspiring-yet-poignant_ poem by one of the greatest poets of [Kannada](https://en.wikipedia.org/wiki/Kannada), [Kuvempu](https://en.wikipedia.org/wiki/Kuvempu) which falls under the genre of "Bhaava-geethe"(ಭಾವ ಗೀತೆ) which taken _verbatim_, translates to "Feeling-Song".
 
 Heart-felt thanks to my dear friend [Vijay](https://vijayanant.wordpress.com) who introduced me to this inadvertently (or perhaps by design?), while playing his choicest songs on his laptop.
 
