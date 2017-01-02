@@ -2,7 +2,7 @@
 
 layout		: post
 title		: "What a Gem!"
-date		: 2016-07-24 00:49:21
+date		: 2017-01-03 00:01:21
 categories	: poetry
 draft		: false
 
