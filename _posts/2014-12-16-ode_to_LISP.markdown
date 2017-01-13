@@ -7,7 +7,7 @@ categories: LISP
 
 ---
 
-Started my journey (finally!) into the magical world of [LISP][link_LISP], something I've pined for long.
+After a long time, I started my journey (finally!) into the magical world of [LISP][link_LISP], something I've pined for long.
 
 And began learning so many new things that I felt I should record my discoveries somewhere, more like a 'travelogue' (or a monologue? :)).
 
