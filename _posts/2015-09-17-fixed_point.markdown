@@ -67,10 +67,9 @@ And then I tested it with the following calls to my `fixed-point` function:
 
 ## The point?
 
-Well, in the end, especially on seeing the different values in case of the \$ sin() \$ function, I realized one simple thing..
-That even the so-called 'fixed-point' of a function 'changes'
+Well, in the end, especially on seeing the different values in case of the \$ sin() \$ function, I realized one simple thing---even the so-called 'fixed-point' of a function 'changes'.
 
-Which reminds me of the adage:
+Which reminds me of the saying:
 
 >  &#10077; The ONLY constant in Life, is CHANGE. &#10078;
 
