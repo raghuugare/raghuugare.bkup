@@ -17,4 +17,4 @@ github_username:  raghuugare
 markdown: kramdown
 highlighter: rouge
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
