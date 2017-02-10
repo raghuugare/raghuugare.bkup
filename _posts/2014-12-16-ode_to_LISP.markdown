@@ -38,6 +38,7 @@ And soon, I obtained my first "Hello World" by typing and 'evaulating' the follo
 
 Among many things, I learnt that LISP is --
 
++ ancient, yet all encompassing in its innovative features
 + simple
 + elegant
 + powerful
