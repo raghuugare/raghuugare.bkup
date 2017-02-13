@@ -7,7 +7,7 @@ categories: LISP
 
 ---
 
-After a long time, I started my journey (finally!) into the magical world of [LISP][link_LISP], something I've pined for long.
+Finally, after a long time, I started my journey into the magical world of [LISP][link_LISP]-- something I've pined for long.
 
 And began learning so many new things that I felt I should record my discoveries somewhere, more like a 'travelogue' (or a monologue? :)).
 
@@ -38,6 +38,7 @@ And soon, I obtained my first "Hello World" by typing and 'evaulating' the follo
 
 Among many things, I learnt that LISP is --
 
++ ancient, yet all encompassing in its innovative features
 + simple
 + elegant
 + powerful
