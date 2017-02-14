@@ -4,6 +4,7 @@ layout: post
 title:  "Ode to LISP &hearts; "
 date:   2014-12-16 20:32:14
 categories: LISP
+comments: true
 
 ---
 
