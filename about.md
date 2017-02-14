@@ -2,6 +2,7 @@
 layout: page
 title: About this blog
 permalink: /intro/
+comments: true
 ---
 
 ## Hello! Tea, anyone ? &#9786;
