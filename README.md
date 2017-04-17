@@ -5,4 +5,6 @@ Random ramblings ranging from programming to artificial intelligence; from philo
 
 This is my collection of miscellaneous nuggets - revived & resurrected every now and then.
 
+Patterns of all kinds interest & intrigue me.
+
 Currently, I'm also into Functional Programming, Math, Haskell and Mathematica. 
