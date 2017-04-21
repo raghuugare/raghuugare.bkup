@@ -7,4 +7,4 @@ This is my collection of miscellaneous nuggets - revived & resurrected every now
 
 Patterns of all kinds interest & intrigue me.
 
-Currently, I'm also into Functional Programming, Math, Haskell and Mathematica. 
+Currently, I'm also into Functional Programming, Math, & Machine Learning. 
