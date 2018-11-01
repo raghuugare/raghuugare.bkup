@@ -10,7 +10,7 @@ draft		: false
 
 Here's an _inspiring-yet-poignant_ poem by one of the greatest poets of [Kannada](https://en.wikipedia.org/wiki/Kannada), [Kuvempu](https://en.wikipedia.org/wiki/Kuvempu) which falls under the genre of "Bhaava-geethe"(ಭಾವ ಗೀತೆ) which taken _verbatim_, translates to "Feeling-Song".
 
-Heart-felt thanks to my dear friend [Vijay](https://vijayanant.wordpress.com) who introduced me to this inadvertently (or perhaps by design?), while playing his choicest songs on his laptop.
+Heart-felt thanks to my dear friend [Vijay](https://vijayanant.github.io/) who introduced me to this inadvertently (or perhaps by design?), while playing his choicest songs on his laptop.
 
 ತನುವು ನಿನ್ನದು, ಮನವು ನಿನ್ನದು
 ====
